@@ -1,0 +1,116 @@
+baseURL: "https://fmvaldezg.github.io" 
+title: Felipe Valdez Gómez de la Torre
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Books
+          url: books/
+          weight: 1 
+        - name: Papers
+          url: papers/
+          weight: 2
+        - name: Courses
+          url: courses/
+          weight: 3
+        - name: Data
+          url: data/
+          weight: 4 
+        - name: Blog
+          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          weight: 5
+
+params:
+    description: "I am a Geographer interested on urban and economic geography in Latin America. After having worked for the National Planning Secretariat for 3 years I obtained a grant to study a masters degree in geography of developing countries in France at the Universite Paris 1. Since then I have been interested in teaching geography in higher education as well as doing research in spatial analysis for urban development. Former Vice-president of the Asociacion Geografica del Ecuador, I am deeply committed to develop geographic studies in any education level in Ecuador. Right now I am studying my PhD in Geography at the Northern Illinois University. My current research is on residential preferences and behavior in South American cities and spatial variation of housing prices."
+    author: Felipe Valdez Gómez de la Torre
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Felipe Valdez
+          subtitle: "I am a Geographer interested on urban and economic geography in Latin America. After having worked for the National Planning Secretariat for 3 years I obtained a grant to study a masters degree in geography of developing countries in France at the Universite Paris 1. Since then I have been interested in teaching geography in higher education as well as doing research in spatial analysis for urban development. Former Vice-president of the Asociacion Geografica del Ecuador, I am deeply committed to develop geographic studies in any education level in Ecuador. Right now I am studying my PhD in Geography at the Northern Illinois University. My current research is on residential preferences and behavior in South American cities and spatial variation of housing prices."
+          imageUrl: "picture.jpg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Felipe Valdez
+          buttons:
+            - name: Books
+              url: books/
+            - name: Papers
+              url: papers/
+            - name: Courses
+              url: courses/
+            - name: Data
+              url: data/
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
+            - name: Blog
+              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+    socialIcons:
+        - name: Email
+          url: mailto:felipemiguelvaldez@gmail.com
+        - name: CV
+          url: cv.pdf
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+        - name: GitHub
+          url: https://github.com/pmichaillat
+        - name: YouTube
+          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        - name: Twitter
+          url: https://twitter.com/McCallSmith
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Felipe Valdez Gómez de la Torre"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
