@@ -28,7 +28,7 @@ menu:
           weight: 5
 
 params:
-    description: "I am a Geographer interested on urban and economic geography in Latin America. After having worked for the National Planning Secretariat for 3 years I obtained a grant to study a masters degree in geography of developing countries in France at the Universite Paris 1. Since then I have been interested in teaching geography in higher education as well as doing research in spatial analysis for urban development. Former Vice-president of the Asociacion Geografica del Ecuador, I am deeply committed to develop geographic studies in any education level in Ecuador. Right now I am studying my PhD in Geography at the Northern Illinois University. My current research is on residential preferences and behavior in South American cities and spatial variation of housing prices."
+    description: "Intercultural urban and economic geographer with more than 12 years of experience in higher education and research. Applying GIS to urban solutions based on collective action."
     author: Felipe Valdez Gómez de la Torre
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,15 +52,15 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Felipe Valdez
-          subtitle: "I am a Geographer interested on urban and economic geography in Latin America. After having worked for the National Planning Secretariat for 3 years I obtained a grant to study a masters degree in geography of developing countries in France at the Universite Paris 1. Since then I have been interested in teaching geography in higher education as well as doing research in spatial analysis for urban development. Former Vice-president of the Asociacion Geografica del Ecuador, I am deeply committed to develop geographic studies in any education level in Ecuador. Right now I am studying my PhD in Geography at the Northern Illinois University. My current research is on residential preferences and behavior in South American cities and spatial variation of housing prices."
+          title: Felipe Valdez, Ph.D.
+          subtitle: "Intercultural urban and economic geographer with more than 12 years of experience in higher education and academic research. Dedicated to the application of Geographic Information Systems and open geospatial data to develop urban planning solutions for sustainable futures based on collective action.<br><br>I have worked in public institutions at the national level in Ecuador, for 10 years as a professor and researcher in undergraduate and graduate programs in Ecuador, and as a consultant on projects. Currently, I am the Geographic Information Systems specialist at the Temple University library in Philadelphia. My educational and professional experience in Ecuador, France and the United States gave me a strong commitment with equity, diversity, and inclusion.<br><br>In my work, I combine my passion for teaching everyone to use maps and data as forms of communication, and my desire to build more equitable and just societies."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Felipe Valdez
           buttons:
-            - name: Books
-              url: books/
+            - name: Publications
+              url: publications/
             - name: Papers
               url: papers/
             - name: Courses
@@ -80,13 +80,13 @@ params:
         - name: CV
           url: cv.pdf
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=VC2gTN0AAAAJ&hl=en
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/fmvaldezg
         - name: YouTube
           url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
