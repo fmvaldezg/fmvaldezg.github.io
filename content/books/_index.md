@@ -1,4 +1,4 @@
 ---
-title: "Publications"
-description: "Publications by Felipe Valdez"
+title: "Books"
+description: "Books published by Felipe Valdez"
 ---
