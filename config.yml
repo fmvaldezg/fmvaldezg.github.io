@@ -87,8 +87,8 @@ params:
           url: officehours/
         - name: GitHub
           url: https://github.com/fmvaldezg
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        #- name: YouTube
+        #  url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
           url: https://twitter.com/McCallSmith
 
