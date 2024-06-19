@@ -58,6 +58,24 @@ params:
           imageWidth: 160
           imageHeight: 160
           imageTitle: Felipe Valdez
+
+          socialIcons:
+            - name: Email
+              url: mailto:felipemiguelvaldez@gmail.com
+            - name: CV
+              url: cv.pdf
+            - name: Google Scholar
+              url: https://scholar.google.com/citations?user=VC2gTN0AAAAJ&hl=en
+            - name: Location
+              url: location/
+            - name: Office Hours
+              url: officehours/
+            - name: GitHub
+              url: https://github.com/fmvaldezg
+            #- name: YouTube
+            #  url: https://www.youtube.com/@alexandermccallsmithoffici9000
+            - name: Twitter
+              url: https://twitter.com/McCallSmith
           buttons:
             - name: Publications
               url: publications/
@@ -67,30 +85,14 @@ params:
               url: courses/
             - name: Data
               url: data/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            #- name: Tags
+            #  url: tags/
+            #- name: Archive
+            #  url: archive/
+            #- name: Blog
+            #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
-    socialIcons:
-        - name: Email
-          url: mailto:felipemiguelvaldez@gmail.com
-        - name: CV
-          url: cv.pdf
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=VC2gTN0AAAAJ&hl=en
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: GitHub
-          url: https://github.com/fmvaldezg
-        #- name: YouTube
-        #  url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+
 
     assets:
         disableHLJS: true
