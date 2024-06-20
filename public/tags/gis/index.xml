@@ -16,5 +16,14 @@
       <description>This study compares both non-spatial and spatial regression models to examine the factors associated with housing prices based on the municipal housing appraisal and real estate datasets for the city of Quito, Ecuador.</description>
     </item>
     
+    <item>
+      <title>Homicides in Ecuador - Year 2024</title>
+      <link>https://fmvaldezg.github.io/projects/homec24/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmvaldezg.github.io/projects/homec24/</guid>
+      <description>A map showing the location of homicides in Ecuador from January to April 2024</description>
+    </item>
+    
   </channel>
 </rss>
