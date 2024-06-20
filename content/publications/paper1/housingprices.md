@@ -18,7 +18,7 @@ on the spatial varying, sometimes opposite effects of some housing attributes on
 housing prices in different areas of the city, suggesting the potential impact from
 segregation."
 cover:
-    image: "content/publications/paper1/figure1.jpg"
+    image: "/publications/paper1/figure1.jpg"
     alt: "Figure from paper"
     relative: false
 editPost:
@@ -46,7 +46,7 @@ segregation.
 
 ##### Figure 2:  Local R2 distribution
 
-![](/figure2.png)
+![](/publications/paper1/figure2.png)
 
 ---
 

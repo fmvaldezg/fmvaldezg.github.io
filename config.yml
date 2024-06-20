@@ -17,9 +17,9 @@ menu:
         #- name: Papers
         #  url: papers/
         #  weight: 2
-        #- name: Courses
-        #  url: courses/
-        #  weight: 3
+        - name: Mapping Projects
+          url: projects/
+          weight: 2
         #- name: Data
         #  url: data/
         #  weight: 4 
@@ -61,10 +61,10 @@ params:
           buttons:
             - name: Publications
               url: publications/
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
+            #- name: Papers
+            #  url: papers/
+            - name: Mapping Projects
+              url: projects/
             #- name: Data
             #  url: data/
             #- name: Tags
