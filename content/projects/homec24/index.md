@@ -20,104 +20,52 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers topics related to profanity in Early Irish. It relates such profanity to profanity in modern English:
+Starting in 2020, Ecuador experienced a significant increase in the number of violent deaths due to various factors, mainly the deterioration of the economy caused by the fall in oil prices and the COVID-19 pandemic, as well as the defunding of public policy related to social development. 
 
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-+ Sed fermentum turpis nec dolor dapibus, ac commodo enim consequat. 
-+ Suspendisse potenti. Integer ac mauris nec ligula finibus ullamcorper. 
-+ Phasellus rutrum enim in nunc aliquam mollis. 
-+ Vivamus auctor nunc ac augue dapibus, in fermentum enim hendrerit. Duis et ultrices sem, eget efficitur lacus. 
+In Ecuador, as in other countries in the region, the availability of data on this topic is scarce or nonexistent. The continuity and consistency of the data vary according to the willingness of the current officials. For example, on the open data portal [Datos abiertos](https://www.datosabiertos.gob.ec/) , two sets of homicide data can be found for the years 2022 and 2024. However, the fields and details are not consistent. 
 
-##### Introductory video
-
-0. [Lecture video 0](https://youtu.be/nSbrF_ZWE_M)
-
-##### Introductory readings
-
-+ [Paper 1](http://www.alexandermccallsmith.com/series/von-igelfeld-series) – This paper argues things.
-+ [Paper 2](https://doi.org/10.1016/j.pubecp.2021.100009) – This paper finds results. 
+This map uses some of the data available on this platform to show some ways in which these can be visualized and analyzed for decision-making.
 
 ---
 
-## Part 1: Overview of Early Irish
+## The Map
 
-This section reviews the Early Irish language. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
+<iframe
+  src="https://fmvaldezg.github.io/HomicidiosEC2024/"
+  style="width:100%; height:650px;"
+></iframe>
 
-##### Lecture videos
+The map was build using Mapbox GL JS libraries and Mapbox Assembly for styling.
 
-1. [Lecture video 1](https://youtu.be/X_mwtm3inEw) ([notes](notes1.pdf))
-2. [Lecture video 2](https://youtu.be/cFdwOwY2l-A) ([notes](notes2.pdf))
+The map displays two visualizations of the location of homicide events from January to April 2024. Up to zoom level 9 (provinces), the map shows a heat map that illustrates the density of the events. This allows the user to identify concentration points and zoom in on them. Beyond zoom level 9, the heat map transitions to points of different colors that show the location of each event. 
 
-##### Readings
+<figure style="display: inline-block; text-align: center;">
+  <figcaption>Zoom Out</figcaption>
+  <img src="/projects/homec24/zoomout.png" alt="zoom out" style="display:inline; width:300px; height:auto; vertical-align: middle;">
+</figure>
 
-+ [Paper 3](https://doi.org/10.1162/rest_a_00893) – This paper finds things.
-+ [Paper 4](https://doi.org/10.1073/pnas.1816454115) – This survey reviews things.
+<figure style="display: inline-block; text-align: center;">
+  <figcaption>Zoom In</figcaption>
+  <img src="/projects/homec24/zoomin.png" alt="zoom in" style="display:inline; width:300px; height:auto; vertical-align: middle;">
+</figure>
 
-##### Homework
 
-+ [Quiz 1](quiz3.pdf)
-+ [Problem set 1](ps3.pdf)
+The points are colored based on the type of weapon used. On the left side of the web map, there is a legend that includes a simplified representation of the heat map colors, the colors of the points according to the type of weapon, brief instructions, and the source. 
 
----
+![](/projects/homec24/key.png)
 
-## Part 2: Profanity in Indo-European Languages
+This legend can be collapsed to increase the viewing area, which improves the usability of the map on mobile devices.
 
-This section introduces profanity in Indo-European languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua:
+Click [here](https://fmvaldezg.github.io/HomicidiosEC2024/) to see the map in full screen.
 
-> Maecenas quis ex nec tortor pulvinar tristique. Morbi eget massa nec quam interdum posuere. Vestibulum lobortis auctor massa, sed hendrerit risus malesuada eu. Fusce nec metus ligula. Donec in mauris dolor.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vestibulum erat nec odio tincidunt, vitae laoreet mi tempor. Quisque id eros sit amet enim tempor pellentesque. Suspendisse tincidunt risus a vehicula tincidunt. Nullam sollicitudin libero et ex cursus ultrices. Phasellus sit amet justo vitae nulla hendrerit pretium. Aenean quis velit eu risus pharetra vestibulum. Sed nec risus dolor. Vivamus vel leo ac ante pharetra auctor. Curabitur eleifend sapien non nisl varius, in hendrerit ipsum vehicula. Sed non justo sit amet nisi pharetra fermentum.
-
-##### Lecture videos
-
-3. [Lecture video 3](https://youtu.be/ZgYtFURIu4A) ([notes](notes3.pdf))
-4. [Lecture video 4](https://youtu.be/6j2Debc6LcI) ([notes](notes4.pdf))
-
-##### Readings
-
-+ [Paper 5](https://doi.org/10.1257/pol.20150088) – This paper shows stuff.
-+ [Paper 6](https://doi.org/10.1257/pol.20160462) – This paper shows other things.
-
-##### Homework
-
-+ [Quiz 2](quiz4.pdf)
-+ [Problem Set 2](ps4.pdf)
 
 ---
 
-## Part 3: The originality of profanity in Early Irish
+## The process
 
-This section turns to the various elements that make profanity in Early Irish so original. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-##### Lecture slides
-
-1. [Lecture slides 1](slides1.pdf)
-2. [Lecture slides 2](slides2.pdf)
 
 ---
 
-## Part 4: Modernization of profanity
+## Some insights
 
-This section turns to the modernization of profanity over the ages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-##### Lecture slides
-
-3. [Lecture slides 3](slides3.pdf)
-4. [Lecture slides 4](slides4.pdf)
-
----
-
-## Conclusion
-
-This section concludes. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
