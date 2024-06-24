@@ -7,7 +7,7 @@ author: ["Felipe Valdez"]
 description: "A map showing the location of fires detected by satellite imegery in Quito." 
 summary: "This map shows the location of fires detected using satellite imagery in Quito during August 2023." 
 cover:
-    image: "/projects/firesuio23/firesui023.png"
+    image: "/projects/firesuio23/firesuio23.png"
     alt: "Map of Quito with red spots"
     relative: false
 editPost:
