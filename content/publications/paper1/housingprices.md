@@ -18,7 +18,7 @@ on the spatial varying, sometimes opposite effects of some housing attributes on
 housing prices in different areas of the city, suggesting the potential impact from
 segregation."
 cover:
-    image: "/publications/paper1/figure1.jpg"
+    image: "/publications/paper1/figure1.png"
     alt: "Figure from paper"
     relative: false
 editPost:
