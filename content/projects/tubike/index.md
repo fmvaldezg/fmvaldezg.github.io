@@ -36,7 +36,7 @@ On April 28th, Temple University organized 22-mile bike tour from Main Campus in
 
 
 <div style="line-height: 1.8;">
-The map shows a marker that follows the tour route over a satellite image. As the route progresses, a reddish line marks the path traveled. A window above the marker indicates the distance covered from the point of origin <a href="https://www.temple.edu/">Temple University Main Campus</a> to the marker's location. The animation starts automatically when the page loads but can be paused <img src="/projects/tubike/play.png" alt="Pause Button" style="display:inline; width:30px; height:auto; vertical-align: middle; "> or restarted <img src="/projects/tubike/rest.png" alt="Restart Button" style="display:inline; width:30px; height:auto; vertical-align: middle;"> using the buttons in the top right corner.
+The map shows a marker that follows the tour route over a satellite image. As the route progresses, a reddish line marks the path traveled. A window above the marker indicates the distance covered from the point of origin <a href="https://www.temple.edu/">Temple University Main Campus</a> to the marker's location. The animation starts automatically when the page loads but can be paused <img src="/projects/tubike/play.png" alt="Pause Button" style="display:inline; width:30px; height:auto; vertical-align: middle;"> or restarted <img src="/projects/tubike/rest.png" alt="Restart Button" style="display:inline; width:30px; height:auto; vertical-align: middle;"> using the buttons in the top right corner.
 </div>
 
 
