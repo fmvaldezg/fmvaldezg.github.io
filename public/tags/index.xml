@@ -2,215 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Felipe Valdez Gómez de la Torre</title>
-    <link>https://fmvaldezg.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://fmvaldezg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GIS</title>
-      <link>https://fmvaldezg.github.io/tags/gis/</link>
+      <link>http://localhost:1313/tags/gis/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/gis/</guid>
+      <guid>http://localhost:1313/tags/gis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GWR</title>
-      <link>https://fmvaldezg.github.io/tags/gwr/</link>
+      <link>http://localhost:1313/tags/gwr/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/gwr/</guid>
+      <guid>http://localhost:1313/tags/gwr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Housing Prices</title>
-      <link>https://fmvaldezg.github.io/tags/housing-prices/</link>
+      <link>http://localhost:1313/tags/housing-prices/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/housing-prices/</guid>
+      <guid>http://localhost:1313/tags/housing-prices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Effects</title>
-      <link>https://fmvaldezg.github.io/tags/spatial-effects/</link>
+      <link>http://localhost:1313/tags/spatial-effects/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/spatial-effects/</guid>
+      <guid>http://localhost:1313/tags/spatial-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecuador</title>
-      <link>https://fmvaldezg.github.io/tags/ecuador/</link>
+      <link>http://localhost:1313/tags/ecuador/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/ecuador/</guid>
+      <guid>http://localhost:1313/tags/ecuador/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping</title>
-      <link>https://fmvaldezg.github.io/tags/mapping/</link>
+      <link>http://localhost:1313/tags/mapping/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/mapping/</guid>
+      <guid>http://localhost:1313/tags/mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Webmap</title>
-      <link>https://fmvaldezg.github.io/tags/webmap/</link>
+      <link>http://localhost:1313/tags/webmap/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/webmap/</guid>
+      <guid>http://localhost:1313/tags/webmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Animated</title>
-      <link>https://fmvaldezg.github.io/tags/animated/</link>
+      <link>http://localhost:1313/tags/animated/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/animated/</guid>
+      <guid>http://localhost:1313/tags/animated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapbox</title>
-      <link>https://fmvaldezg.github.io/tags/mapbox/</link>
+      <link>http://localhost:1313/tags/mapbox/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/mapbox/</guid>
+      <guid>http://localhost:1313/tags/mapbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire</title>
+      <link>http://localhost:1313/tags/fire/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/fire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quito</title>
+      <link>http://localhost:1313/tags/quito/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/quito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>French</title>
-      <link>https://fmvaldezg.github.io/tags/french/</link>
+      <link>http://localhost:1313/tags/french/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/french/</guid>
+      <guid>http://localhost:1313/tags/french/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Irregular Verbs</title>
-      <link>https://fmvaldezg.github.io/tags/irregular-verbs/</link>
+      <link>http://localhost:1313/tags/irregular-verbs/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/irregular-verbs/</guid>
+      <guid>http://localhost:1313/tags/irregular-verbs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Italian</title>
-      <link>https://fmvaldezg.github.io/tags/italian/</link>
+      <link>http://localhost:1313/tags/italian/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/italian/</guid>
+      <guid>http://localhost:1313/tags/italian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philology</title>
-      <link>https://fmvaldezg.github.io/tags/philology/</link>
+      <link>http://localhost:1313/tags/philology/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/philology/</guid>
+      <guid>http://localhost:1313/tags/philology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portuguese</title>
-      <link>https://fmvaldezg.github.io/tags/portuguese/</link>
+      <link>http://localhost:1313/tags/portuguese/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/portuguese/</guid>
+      <guid>http://localhost:1313/tags/portuguese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Romance Languages</title>
-      <link>https://fmvaldezg.github.io/tags/romance-languages/</link>
+      <link>http://localhost:1313/tags/romance-languages/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/romance-languages/</guid>
+      <guid>http://localhost:1313/tags/romance-languages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spanish</title>
-      <link>https://fmvaldezg.github.io/tags/spanish/</link>
+      <link>http://localhost:1313/tags/spanish/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/spanish/</guid>
+      <guid>http://localhost:1313/tags/spanish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>History of Oil</title>
-      <link>https://fmvaldezg.github.io/tags/history-of-oil/</link>
+      <link>http://localhost:1313/tags/history-of-oil/</link>
       <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/history-of-oil/</guid>
+      <guid>http://localhost:1313/tags/history-of-oil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mediterranean World</title>
-      <link>https://fmvaldezg.github.io/tags/mediterranean-world/</link>
+      <link>http://localhost:1313/tags/mediterranean-world/</link>
       <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/mediterranean-world/</guid>
+      <guid>http://localhost:1313/tags/mediterranean-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oleic Science</title>
-      <link>https://fmvaldezg.github.io/tags/oleic-science/</link>
+      <link>http://localhost:1313/tags/oleic-science/</link>
       <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/oleic-science/</guid>
+      <guid>http://localhost:1313/tags/oleic-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Canine Pulmonary Efficiency</title>
-      <link>https://fmvaldezg.github.io/tags/canine-pulmonary-efficiency/</link>
+      <link>http://localhost:1313/tags/canine-pulmonary-efficiency/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/canine-pulmonary-efficiency/</guid>
+      <guid>http://localhost:1313/tags/canine-pulmonary-efficiency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sausage Dogs</title>
-      <link>https://fmvaldezg.github.io/tags/sausage-dogs/</link>
+      <link>http://localhost:1313/tags/sausage-dogs/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/sausage-dogs/</guid>
+      <guid>http://localhost:1313/tags/sausage-dogs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zoology</title>
-      <link>https://fmvaldezg.github.io/tags/zoology/</link>
+      <link>http://localhost:1313/tags/zoology/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/zoology/</guid>
+      <guid>http://localhost:1313/tags/zoology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portugese</title>
-      <link>https://fmvaldezg.github.io/tags/portugese/</link>
+      <link>http://localhost:1313/tags/portugese/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/tags/portugese/</guid>
+      <guid>http://localhost:1313/tags/portugese/</guid>
       <description></description>
     </item>
     
