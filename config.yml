@@ -33,7 +33,7 @@ params:
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -81,6 +81,8 @@ params:
           url: cv.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=VC2gTN0AAAAJ&hl=en
+        - name: ORCID
+          url: https://orcid.org/0000-0001-6999-5657
         - name: linkedin
           url: https://www.linkedin.com/in/felipevaldez/
         - name: GitHub
