@@ -34,9 +34,9 @@ This paper presents the experience of a service-learning course which used commu
 
 ---
 
-##### Figure 2:  Local R2 distribution
+##### Figure 2:  Twenty Minute Walk Buffers from the NICCS and NIU Campus
 
-![](/publications/paper1/figure2.png)
+![](/publications/paper2/commgeo.png)
 
 ---
 
@@ -45,7 +45,7 @@ This paper presents the experience of a service-learning course which used commu
 James, A.C., Alyasiri, E., Howe, M. et al. Broadening participation, creating community, and learning that it never goes as planned. GeoJournal 87 (Suppl 2), 281–292 (2022). https://doi-org.libproxy.temple.edu/10.1007/s10708-021-10442-1
 
 ```BibTeX
-@article{AAYY,
+@article{JEY22,
 author = {Autumn C. James, Elaf Alyasiri, Matthew Howe, Ryan D. James, Yiwei Jin, Kyagaba Lwanga, Bailey McClain, Andrea Moore, Yaxiong Shao, Felipe Valdez},
 doi = {https://doi.org/10.1007/s10708-021-10442-1},
 journal = {GeoJournal},
