@@ -32,8 +32,8 @@ editPost:
 ##### Download:
 
 - [Paper](content/publications/paper1/housing_prices.PDF)
-- [Online appendix](/appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
+- [Online](https://www.emerald.com/insight/content/doi/10.1108/IJHMA-09-2023-0121/full/html?skipTracking=true)
+<!--- [Code and data](https://github.com/paper_repo)-->
 
 ---
 
@@ -52,18 +52,18 @@ segregation.
 
 ##### Citation
 
-Valdez Felipe, Chen Xuwei. 2024. "Housing Price Determinants in Ecuador: A Spatial Hedonic Analysis" *International Journal of Housing Markets and Analysis* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Valdez Gómez de la Torre, F.M. and Chen, X. (2024), "Housing price determinants in Ecuador: a spatial hedonic analysis", International Journal of Housing Markets and Analysis, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/IJHMA-09-2023-0121.
 
 ```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
+@article{VC24,
+author = {Felipe Valdez and Xuwei Chen},
+doi = {https://doi.org/10.1108/IJHMA-09-2023-0121},
+journal = {International Journal of Housing Markets and Analysis},
 number = {Issue},
 pages = {XXX--YYY},
-title = {Title},
-volume = {Volume},
-year = {Year}}
+title = {Housing price determinants in Ecuador: a spatial hedonic analysis},
+volume = {ahead-of-print},
+year = {2024}}
 ```
 
 ---
