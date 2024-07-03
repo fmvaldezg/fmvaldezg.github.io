@@ -31,7 +31,7 @@ editPost:
 
 ##### Download:
 
-- [Paper](public/publications/paper1/housing_prices.PDF)
+- [Paper](https://raw.githubusercontent.com/fmvaldezg/fmvaldezg.github.io/main/public/publications/paper1/housing_prices.PDF)
 - [Online](https://www.emerald.com/insight/content/doi/10.1108/IJHMA-09-2023-0121/full/html?skipTracking=true)
 <!--- [Code and data](https://github.com/paper_repo)-->
 
