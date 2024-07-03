@@ -31,7 +31,7 @@ editPost:
 
 ##### Download:
 
-- [Paper](content/publications/paper1/housing_prices.PDF)
+- [Paper](/publications/paper1/housing_prices.pdf)
 - [Online](https://www.emerald.com/insight/content/doi/10.1108/IJHMA-09-2023-0121/full/html?skipTracking=true)
 <!--- [Code and data](https://github.com/paper_repo)-->
 
