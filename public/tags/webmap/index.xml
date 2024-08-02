@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Webmap on Felipe Valdez Gómez de la Torre</title>
-    <link>http://localhost:1313/tags/webmap/</link>
+    <link>felipevaldez.com/tags/webmap/</link>
     <description>Recent content in Webmap on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/webmap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="felipevaldez.com/tags/webmap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homicides in Ecuador - Year 2024</title>
-      <link>http://localhost:1313/projects/homec24/</link>
+      <link>felipevaldez.com/projects/homec24/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/homec24/</guid>
+      <guid>felipevaldez.com/projects/homec24/</guid>
       <description>A map showing the location of homicides in Ecuador from January to April 2024</description>
     </item>
     
     <item>
       <title>Temple University Bike Tour - Animated Map</title>
-      <link>http://localhost:1313/projects/tubike/</link>
+      <link>felipevaldez.com/projects/tubike/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/tubike/</guid>
+      <guid>felipevaldez.com/projects/tubike/</guid>
       <description>An animated map of the route of the Temple University Bike Tour 2024</description>
     </item>
     
     <item>
       <title>Metro de Quito</title>
-      <link>http://localhost:1313/projects/uiometro/uiometro/</link>
+      <link>felipevaldez.com/projects/uiometro/uiometro/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/uiometro/uiometro/</guid>
+      <guid>felipevaldez.com/projects/uiometro/uiometro/</guid>
       <description>A map showing service areas from each Metro Station</description>
     </item>
     
     <item>
       <title>Fires in Quito - August 2023</title>
-      <link>http://localhost:1313/projects/firesuio23/</link>
+      <link>felipevaldez.com/projects/firesuio23/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/firesuio23/</guid>
+      <guid>felipevaldez.com/projects/firesuio23/</guid>
       <description>A map showing the location of fires detected by satellite imegery in Quito.</description>
     </item>
     

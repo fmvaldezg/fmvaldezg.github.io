@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
 <title>Temple University Bike Tour - Animated Map | Felipe Valdez Gómez de la Torre</title>
 <meta name="keywords" content="webmap, animated, mapbox">
 <meta name="description" content="An animated map of the route of the Temple University Bike Tour 2024">
 <meta name="author" content="Felipe Valdez">
-<link rel="canonical" href="http://localhost:1313/projects/tubike/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.750078411082a12d64ac89cdded1566b9ce076e8c8c75b9bafa328834342d07c.css" integrity="sha256-dQB4QRCCoS1krInN3tFWa5zgdujIx1ubr6Mog0NC0Hw=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="canonical" href="felipevaldez.com/projects/tubike/">
+<link crossorigin="anonymous" href="felipevaldez.com/assets/css/stylesheet.750078411082a12d64ac89cdded1566b9ce076e8c8c75b9bafa328834342d07c.css" integrity="sha256-dQB4QRCCoS1krInN3tFWa5zgdujIx1ubr6Mog0NC0Hw=" rel="preload stylesheet" as="style">
+<link rel="icon" href="felipevaldez.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="felipevaldez.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="felipevaldez.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="felipevaldez.com/apple-touch-icon.png">
 
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/tubike/">
+<link rel="alternate" hreflang="en" href="felipevaldez.com/projects/tubike/">
 <noscript>
     <style>
         #theme-toggle,
@@ -30,13 +30,13 @@
 </noscript><meta property="og:title" content="Temple University Bike Tour - Animated Map" />
 <meta property="og:description" content="An animated map of the route of the Temple University Bike Tour 2024" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/projects/tubike/" />
-<meta property="og:image" content="http://localhost:1313/projects/tubike/tubike.png" /><meta property="article:section" content="projects" />
+<meta property="og:url" content="felipevaldez.com/projects/tubike/" />
+<meta property="og:image" content="/projects/tubike/tubike.png" /><meta property="article:section" content="projects" />
 <meta property="article:published_time" content="2024-04-28T00:00:00+00:00" />
 <meta property="article:modified_time" content="2024-05-08T00:00:00+00:00" />
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="http://localhost:1313/projects/tubike/tubike.png" />
+<meta name="twitter:image" content="/projects/tubike/tubike.png" />
 <meta name="twitter:title" content="Temple University Bike Tour - Animated Map"/>
 <meta name="twitter:description" content="An animated map of the route of the Temple University Bike Tour 2024"/>
 
@@ -50,13 +50,13 @@
       "@type": "ListItem",
       "position":  1 ,
       "name": "Mapping Projects",
-      "item": "http://localhost:1313/projects/"
+      "item": "felipevaldez.com/projects/"
     }, 
     {
       "@type": "ListItem",
       "position":  2 ,
       "name": "Temple University Bike Tour - Animated Map",
-      "item": "http://localhost:1313/projects/tubike/"
+      "item": "felipevaldez.com/projects/tubike/"
     }
   ]
 }
@@ -74,7 +74,7 @@
   "articleBody": "The Tour On April 28th, Temple University organized 22-mile bike tour from Main Campus in Philadelphia to Temple Ambler.\nMore Info on the Tour The Animated Map The map shows a marker that follows the tour route over a satellite image. As the route progresses, a reddish line marks the path traveled. A window above the marker indicates the distance covered from the point of origin Temple University Main Campus to the marker's location. The animation starts automatically when the page loads but can be paused or restarted using the buttons in the top right corner. Click here to see the map in full screen.\nThe process The map was build using Mapbox GL JS libraries, Mapbox Assembly for styling and Turf to retreive and calculate the distance.\nA .gpx file was dowloaded from here . The .gpx file was converted to a Geojson format using QGIS. A basic HTML file to initiate the map was created following Mapbox examples on their web. Temple University logos were added to the start and end points of the tour. The code and data were hosted in github and deployed using github pages. Settings We used the satellite-streets-v12 as the basemap. We used path = turf.lineString() and pathDistance = turf.lineDistance(path) to get the total distance. The const alongPath = turf.along(path, distanceTraveled) .geometry.coordinates; retrieves latitude and longitude on the path. ",
   "wordCount" : "226",
   "inLanguage": "en",
-  "image":"http://localhost:1313/projects/tubike/tubike.png","datePublished": "2024-04-28T00:00:00Z",
+  "image":"/projects/tubike/tubike.png","datePublished": "2024-04-28T00:00:00Z",
   "dateModified": "2024-05-08T00:00:00Z",
   "author":{
     "@type": "Person",
@@ -82,14 +82,14 @@
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/projects/tubike/"
+    "@id": "felipevaldez.com/projects/tubike/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Felipe Valdez Gómez de la Torre",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/favicon.ico"
+      "url": "felipevaldez.com/favicon.ico"
     }
   }
 }
@@ -131,9 +131,9 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Felipe Valdez Gómez de la Torre">
+            <a href="felipevaldez.com/" accesskey="h" title="Felipe Valdez Gómez de la Torre">
              
-                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
+                <img src="felipevaldez.com/favicon.ico" alt="" aria-label="logo"
                     height="18"
                     width="18">Felipe Valdez Gómez de la Torre</a>
             <div class="logo-switches">
@@ -141,12 +141,12 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/publications/" title="Publications">
+                <a href="felipevaldez.com/publications/" title="Publications">
                     <span>Publications</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/projects/" title="Mapping Projects">
+                <a href="felipevaldez.com/projects/" title="Mapping Projects">
                     <span>Mapping Projects</span>
                 </a>
             </li>
@@ -223,9 +223,9 @@ Click <a href="https://fmvaldezg.github.io/bike-rideTU/" target="_blank">here</a
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="http://localhost:1313/tags/webmap/">Webmap</a></li>
-      <li><a href="http://localhost:1313/tags/animated/">Animated</a></li>
-      <li><a href="http://localhost:1313/tags/mapbox/">Mapbox</a></li>
+      <li><a href="felipevaldez.com/tags/webmap/">Webmap</a></li>
+      <li><a href="felipevaldez.com/tags/animated/">Animated</a></li>
+      <li><a href="felipevaldez.com/tags/mapbox/">Mapbox</a></li>
     </ul>
   </footer>
 </article>
