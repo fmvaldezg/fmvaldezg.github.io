@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Publications on Felipe Valdez Gómez de la Torre</title>
-    <link>https://fmvaldezg.github.io/publications/</link>
+    <link>http://localhost:1313/publications/</link>
     <description>Recent content in Publications on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://fmvaldezg.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Housing Price Determinants in Ecuador: A Spatial Hedonic Analysis</title>
-      <link>https://fmvaldezg.github.io/paper1/</link>
+      <link>http://localhost:1313/paper1/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/paper1/</guid>
+      <guid>http://localhost:1313/paper1/</guid>
       <description>This study compares both non-spatial and spatial regression models to examine the factors associated with housing prices based on the municipal housing appraisal and real estate datasets for the city of Quito, Ecuador.</description>
     </item>
     
     <item>
       <title>Broadening participation, creating community, and learning that it never goes as planned</title>
-      <link>https://fmvaldezg.github.io/paper2/</link>
+      <link>http://localhost:1313/paper2/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fmvaldezg.github.io/paper2/</guid>
+      <guid>http://localhost:1313/paper2/</guid>
       <description>This paper discusses a service-learning course that used community geography to evaluate a proposed research and community center in DeKalb, IL. As students engaged with both university and local communities, we discovered shared concerns and interests, leading to collaborative analysis and recommendations. The project highlights the effectiveness of community geography in fostering meaningful discussions and addressing shared issues, offering insights for future town-gown relationship studies.</description>
     </item>
     
