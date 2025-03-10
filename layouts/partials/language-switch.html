@@ -1,0 +1,7 @@
+<div class="language-selector" style="text-align: center; margin: 10px 0;">
+  {{ if eq .Lang "en" }}
+    <a href="{{ "/es/" | relLangURL }}">Ver en Español</a>
+  {{ else }}
+    <a href="{{ "/" | relLangURL }}">View in English</a>
+  {{ end }}
+</div>

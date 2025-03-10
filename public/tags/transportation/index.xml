@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Transportation on Felipe Valdez Gómez de la Torre</title>
-    <link>felipevaldez.com/tags/transportation/</link>
+    <link>//localhost:1313/tags/transportation/</link>
     <description>Recent content in Transportation on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="felipevaldez.com/tags/transportation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/transportation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metro de Quito</title>
-      <link>felipevaldez.com/projects/uiometro/uiometro/</link>
+      <link>//localhost:1313/es/projects/uiometro/uiometro/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/projects/uiometro/uiometro/</guid>
+      <guid>//localhost:1313/es/projects/uiometro/uiometro/</guid>
+      <description>A map showing service areas from each Metro Station</description>
+    </item>
+    
+    <item>
+      <title>Metro de Quito</title>
+      <link>//localhost:1313/projects/uiometro/uiometro/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/uiometro/uiometro/</guid>
       <description>A map showing service areas from each Metro Station</description>
     </item>
     

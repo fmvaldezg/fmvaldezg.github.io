@@ -1,7 +1,36 @@
-baseURL: "felipevaldez.com" 
+baseURL: "https://felipevaldez.com" 
 title: Felipe Valdez Gómez de la Torre
 paginate: 20
 theme: PaperMod
+
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: false
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Publications
+          url: publications/
+          weight: 1
+        - name: Mapping Projects
+          url: projects/
+          weight: 2
+  
+  es:
+    languageName: "Español"
+    contentDir: "content/es"
+    weight: 2
+    menu:
+      main:
+        - name: Publicaciones
+          url: publications/
+          weight: 1
+        - name: Proyectos de Mapeo
+          url: projects/
+          weight: 2
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -30,6 +59,7 @@ menu:
 params:
     description: "Intercultural urban and economic geographer with more than 12 years of experience in higher education and research. Applying GIS to urban solutions based on collective action."
     author: Felipe Valdez Gómez de la Torre
+    displayFullLangName: true
     googleAnalyticsID: "G-RC52W8J799"
     DateFormat: "January 2006"
     defaultTheme: light

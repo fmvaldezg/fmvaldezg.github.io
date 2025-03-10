@@ -2,242 +2,242 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Felipe Valdez Gómez de la Torre</title>
-    <link>felipevaldez.com/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="felipevaldez.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GIS</title>
-      <link>felipevaldez.com/tags/gis/</link>
+      <link>//localhost:1313/tags/gis/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/gis/</guid>
+      <guid>//localhost:1313/tags/gis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GWR</title>
-      <link>felipevaldez.com/tags/gwr/</link>
+      <link>//localhost:1313/tags/gwr/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/gwr/</guid>
+      <guid>//localhost:1313/tags/gwr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Housing Prices</title>
-      <link>felipevaldez.com/tags/housing-prices/</link>
+      <link>//localhost:1313/tags/housing-prices/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/housing-prices/</guid>
+      <guid>//localhost:1313/tags/housing-prices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Effects</title>
-      <link>felipevaldez.com/tags/spatial-effects/</link>
+      <link>//localhost:1313/tags/spatial-effects/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/spatial-effects/</guid>
+      <guid>//localhost:1313/tags/spatial-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecuador</title>
-      <link>felipevaldez.com/tags/ecuador/</link>
+      <link>//localhost:1313/tags/ecuador/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/ecuador/</guid>
+      <guid>//localhost:1313/tags/ecuador/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping</title>
-      <link>felipevaldez.com/tags/mapping/</link>
+      <link>//localhost:1313/tags/mapping/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/mapping/</guid>
+      <guid>//localhost:1313/tags/mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Webmap</title>
-      <link>felipevaldez.com/tags/webmap/</link>
+      <link>//localhost:1313/tags/webmap/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/webmap/</guid>
+      <guid>//localhost:1313/tags/webmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Animated</title>
-      <link>felipevaldez.com/tags/animated/</link>
+      <link>//localhost:1313/tags/animated/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/animated/</guid>
+      <guid>//localhost:1313/tags/animated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapbox</title>
-      <link>felipevaldez.com/tags/mapbox/</link>
+      <link>//localhost:1313/tags/mapbox/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/mapbox/</guid>
+      <guid>//localhost:1313/tags/mapbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quito</title>
-      <link>felipevaldez.com/tags/quito/</link>
+      <link>//localhost:1313/tags/quito/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/quito/</guid>
+      <guid>//localhost:1313/tags/quito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transportation</title>
-      <link>felipevaldez.com/tags/transportation/</link>
+      <link>//localhost:1313/tags/transportation/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/transportation/</guid>
+      <guid>//localhost:1313/tags/transportation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fire</title>
-      <link>felipevaldez.com/tags/fire/</link>
+      <link>//localhost:1313/tags/fire/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/fire/</guid>
+      <guid>//localhost:1313/tags/fire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Community Geographys</title>
-      <link>felipevaldez.com/tags/community-geographys/</link>
+      <link>//localhost:1313/tags/community-geographys/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/community-geographys/</guid>
+      <guid>//localhost:1313/tags/community-geographys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>felipevaldez.com/tags/teaching/</link>
+      <link>//localhost:1313/tags/teaching/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/teaching/</guid>
+      <guid>//localhost:1313/tags/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Town-Gown</title>
-      <link>felipevaldez.com/tags/town-gown/</link>
+      <link>//localhost:1313/tags/town-gown/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/town-gown/</guid>
+      <guid>//localhost:1313/tags/town-gown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>French</title>
-      <link>felipevaldez.com/tags/french/</link>
+      <link>//localhost:1313/tags/french/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/french/</guid>
+      <guid>//localhost:1313/tags/french/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Irregular Verbs</title>
-      <link>felipevaldez.com/tags/irregular-verbs/</link>
+      <link>//localhost:1313/tags/irregular-verbs/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/irregular-verbs/</guid>
+      <guid>//localhost:1313/tags/irregular-verbs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Italian</title>
-      <link>felipevaldez.com/tags/italian/</link>
+      <link>//localhost:1313/tags/italian/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/italian/</guid>
+      <guid>//localhost:1313/tags/italian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philology</title>
-      <link>felipevaldez.com/tags/philology/</link>
+      <link>//localhost:1313/tags/philology/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/philology/</guid>
+      <guid>//localhost:1313/tags/philology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portuguese</title>
-      <link>felipevaldez.com/tags/portuguese/</link>
+      <link>//localhost:1313/tags/portuguese/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/portuguese/</guid>
+      <guid>//localhost:1313/tags/portuguese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Romance Languages</title>
-      <link>felipevaldez.com/tags/romance-languages/</link>
+      <link>//localhost:1313/tags/romance-languages/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/romance-languages/</guid>
+      <guid>//localhost:1313/tags/romance-languages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spanish</title>
-      <link>felipevaldez.com/tags/spanish/</link>
+      <link>//localhost:1313/tags/spanish/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/spanish/</guid>
+      <guid>//localhost:1313/tags/spanish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>History of Oil</title>
-      <link>felipevaldez.com/tags/history-of-oil/</link>
+      <link>//localhost:1313/tags/history-of-oil/</link>
       <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/history-of-oil/</guid>
+      <guid>//localhost:1313/tags/history-of-oil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mediterranean World</title>
-      <link>felipevaldez.com/tags/mediterranean-world/</link>
+      <link>//localhost:1313/tags/mediterranean-world/</link>
       <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/mediterranean-world/</guid>
+      <guid>//localhost:1313/tags/mediterranean-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oleic Science</title>
-      <link>felipevaldez.com/tags/oleic-science/</link>
+      <link>//localhost:1313/tags/oleic-science/</link>
       <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/oleic-science/</guid>
+      <guid>//localhost:1313/tags/oleic-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portugese</title>
-      <link>felipevaldez.com/tags/portugese/</link>
+      <link>//localhost:1313/tags/portugese/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/tags/portugese/</guid>
+      <guid>//localhost:1313/tags/portugese/</guid>
       <description></description>
     </item>
     

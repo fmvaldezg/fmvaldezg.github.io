@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Philology on Felipe Valdez Gómez de la Torre</title>
-    <link>felipevaldez.com/tags/philology/</link>
+    <link>//localhost:1313/tags/philology/</link>
     <description>Recent content in Philology on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="felipevaldez.com/tags/philology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/philology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>felipevaldez.com/data/data1/</link>
+      <link>//localhost:1313/data/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/data/data1/</guid>
+      <guid>//localhost:1313/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     
     <item>
       <title>Unusual Uses For Olive Oil</title>
-      <link>felipevaldez.com/papers/paper1/</link>
+      <link>//localhost:1313/papers/paper1/</link>
       <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/papers/paper1/</guid>
+      <guid>//localhost:1313/papers/paper1/</guid>
       <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001.</description>
     </item>
     
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>felipevaldez.com/books/book1/</link>
+      <link>//localhost:1313/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       
-      <guid>felipevaldez.com/books/book1/</guid>
+      <guid>//localhost:1313/books/book1/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
     
