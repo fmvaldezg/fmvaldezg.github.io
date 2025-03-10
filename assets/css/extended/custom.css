@@ -1,25 +1,11 @@
-.language-switch-home a {
-    transition: background-color 0.3s ease;
-}
-
-.language-switch-home a:hover {
-    background-color: #f0f0f0;
-}
-
-/* For dark mode */
-.dark .language-switch-home a {
-    border-color: #444;
-}
-
-.dark .language-switch-home a:hover {
-    background-color: #333;
-}
-
-/* Style the language switcher to match menu items */
-#menu li:last-child a {
-    text-decoration: none;
-}
-
-#menu li:last-child a:hover {
-    text-decoration: underline;
+/* Ensure language switcher styles are applied */
+.post-single a[href*="/es/"],
+.post-single a[href="/"] {
+  font-size: 0.6rem !important;
+  padding: 2px 8px !important;
+  border: 1px solid #ddd !important;
+  border-radius: 4px !important;
+  text-decoration: none !important;
+  color: #a1a1a1 !important;
+  display: inline-block !important;
 }

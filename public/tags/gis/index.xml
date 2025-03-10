@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GIS on Felipe Valdez Gómez de la Torre</title>
-    <link>//localhost:1313/tags/gis/</link>
+    <link>http://localhost:1313/tags/gis/</link>
     <description>Recent content in GIS on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/gis/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Housing Price Determinants in Ecuador: A Spatial Hedonic Analysis</title>
-      <link>//localhost:1313/paper1/</link>
+      <title>Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial</title>
+      <link>http://localhost:1313/paper1/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/paper1/</guid>
-      <description>This study compares both non-spatial and spatial regression models to examine the factors associated with housing prices based on the municipal housing appraisal and real estate datasets for the city of Quito, Ecuador.</description>
+      <guid>http://localhost:1313/paper1/</guid>
+      <description>Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador.</description>
     </item>
     
     <item>
       <title>Housing Price Determinants in Ecuador: A Spatial Hedonic Analysis</title>
-      <link>//localhost:1313/paper1/</link>
+      <link>http://localhost:1313/paper1/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/paper1/</guid>
+      <guid>http://localhost:1313/paper1/</guid>
       <description>This study compares both non-spatial and spatial regression models to examine the factors associated with housing prices based on the municipal housing appraisal and real estate datasets for the city of Quito, Ecuador.</description>
     </item>
     
     <item>
       <title>Homicides in Ecuador - Year 2024</title>
-      <link>//localhost:1313/es/projects/homec24/</link>
+      <link>http://localhost:1313/projects/homec24/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/projects/homec24/</guid>
+      <guid>http://localhost:1313/projects/homec24/</guid>
       <description>A map showing the location of homicides in Ecuador from January to April 2024</description>
     </item>
     
     <item>
-      <title>Homicides in Ecuador - Year 2024</title>
-      <link>//localhost:1313/projects/homec24/</link>
+      <title>Homicidios en Ecuador - Año 2024</title>
+      <link>http://localhost:1313/es/projects/homec24/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/homec24/</guid>
-      <description>A map showing the location of homicides in Ecuador from January to April 2024</description>
+      <guid>http://localhost:1313/es/projects/homec24/</guid>
+      <description>Un mapa que muestra la ubicación de homicidios en Ecuador desde enero hasta abril de 2024</description>
     </item>
     
     <item>
       <title>Metro de Quito</title>
-      <link>//localhost:1313/es/projects/uiometro/uiometro/</link>
+      <link>http://localhost:1313/es/projects/uiometro/uiometro/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/projects/uiometro/uiometro/</guid>
+      <guid>http://localhost:1313/es/projects/uiometro/uiometro/</guid>
       <description>A map showing service areas from each Metro Station</description>
     </item>
     
     <item>
       <title>Metro de Quito</title>
-      <link>//localhost:1313/projects/uiometro/uiometro/</link>
+      <link>http://localhost:1313/projects/uiometro/uiometro/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/uiometro/uiometro/</guid>
+      <guid>http://localhost:1313/projects/uiometro/uiometro/</guid>
       <description>A map showing service areas from each Metro Station</description>
     </item>
     
     <item>
       <title>Fires in Quito - August 2023</title>
-      <link>//localhost:1313/es/projects/firesuio23/</link>
+      <link>http://localhost:1313/projects/firesuio23/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/projects/firesuio23/</guid>
+      <guid>http://localhost:1313/projects/firesuio23/</guid>
       <description>A map showing the location of fires detected by satellite imegery in Quito.</description>
     </item>
     
     <item>
-      <title>Fires in Quito - August 2023</title>
-      <link>//localhost:1313/projects/firesuio23/</link>
+      <title>Incendios en Quito - August 2023</title>
+      <link>http://localhost:1313/es/projects/firesuio23/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/firesuio23/</guid>
-      <description>A map showing the location of fires detected by satellite imegery in Quito.</description>
+      <guid>http://localhost:1313/es/projects/firesuio23/</guid>
+      <description>Un mapa que muestra la ubicación de incendios detectados por imágenes satelitales en Quito.</description>
     </item>
     
   </channel>

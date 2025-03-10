@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Spatial Effects on Felipe Valdez Gómez de la Torre</title>
-    <link>//localhost:1313/tags/spatial-effects/</link>
+    <link>http://localhost:1313/tags/spatial-effects/</link>
     <description>Recent content in Spatial Effects on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/spatial-effects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/spatial-effects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Housing Price Determinants in Ecuador: A Spatial Hedonic Analysis</title>
-      <link>//localhost:1313/paper1/</link>
+      <title>Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial</title>
+      <link>http://localhost:1313/paper1/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/paper1/</guid>
-      <description>This study compares both non-spatial and spatial regression models to examine the factors associated with housing prices based on the municipal housing appraisal and real estate datasets for the city of Quito, Ecuador.</description>
+      <guid>http://localhost:1313/paper1/</guid>
+      <description>Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador.</description>
     </item>
     
     <item>
       <title>Housing Price Determinants in Ecuador: A Spatial Hedonic Analysis</title>
-      <link>//localhost:1313/paper1/</link>
+      <link>http://localhost:1313/paper1/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/paper1/</guid>
+      <guid>http://localhost:1313/paper1/</guid>
       <description>This study compares both non-spatial and spatial regression models to examine the factors associated with housing prices based on the municipal housing appraisal and real estate datasets for the city of Quito, Ecuador.</description>
     </item>
     

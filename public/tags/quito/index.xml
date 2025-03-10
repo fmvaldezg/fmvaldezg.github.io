@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Quito on Felipe Valdez Gómez de la Torre</title>
-    <link>//localhost:1313/tags/quito/</link>
+    <link>http://localhost:1313/tags/quito/</link>
     <description>Recent content in Quito on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/quito/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/quito/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metro de Quito</title>
-      <link>//localhost:1313/es/projects/uiometro/uiometro/</link>
+      <link>http://localhost:1313/es/projects/uiometro/uiometro/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/projects/uiometro/uiometro/</guid>
+      <guid>http://localhost:1313/es/projects/uiometro/uiometro/</guid>
       <description>A map showing service areas from each Metro Station</description>
     </item>
     
     <item>
       <title>Metro de Quito</title>
-      <link>//localhost:1313/projects/uiometro/uiometro/</link>
+      <link>http://localhost:1313/projects/uiometro/uiometro/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/uiometro/uiometro/</guid>
+      <guid>http://localhost:1313/projects/uiometro/uiometro/</guid>
       <description>A map showing service areas from each Metro Station</description>
     </item>
     
     <item>
       <title>Fires in Quito - August 2023</title>
-      <link>//localhost:1313/es/projects/firesuio23/</link>
+      <link>http://localhost:1313/projects/firesuio23/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/projects/firesuio23/</guid>
+      <guid>http://localhost:1313/projects/firesuio23/</guid>
       <description>A map showing the location of fires detected by satellite imegery in Quito.</description>
     </item>
     
     <item>
-      <title>Fires in Quito - August 2023</title>
-      <link>//localhost:1313/projects/firesuio23/</link>
+      <title>Incendios en Quito - August 2023</title>
+      <link>http://localhost:1313/es/projects/firesuio23/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/firesuio23/</guid>
-      <description>A map showing the location of fires detected by satellite imegery in Quito.</description>
+      <guid>http://localhost:1313/es/projects/firesuio23/</guid>
+      <description>Un mapa que muestra la ubicación de incendios detectados por imágenes satelitales en Quito.</description>
     </item>
     
   </channel>

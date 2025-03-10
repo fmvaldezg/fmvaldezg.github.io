@@ -2,7 +2,7 @@
     {{- if (not .Site.Params.profileMode.enabled) }}
         {{ partial "index_profile.html" . }}
     {{- else }}
-        <div class="language-switch-home" style="text-align: center; margin: 15px 0;">
+        <div class="language-switch-home" style="text-align: right; margin: 10px 20px;">
             {{ $siteLanguages := .Site.Languages }}
             {{ $pageLang := .Lang }}
             
@@ -15,7 +15,7 @@
                         {{ $pageURL = print "/" .Lang "/" }}
                     {{ end }}
                     
-                    <a href="{{ $pageURL }}" style="padding: 5px 10px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none;">
+                    <a href="{{ $pageURL }}" style="font-size: 0.7rem; padding: 2px 8px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #777777;">
                         {{ if eq .Lang "en" }}View in English{{ else }}Ver en Español{{ end }}
                     </a>
                 {{ end }}
