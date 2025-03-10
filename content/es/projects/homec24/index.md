@@ -1,5 +1,5 @@
 ---
-title: "Homicides in Ecuador - Year 2024" 
+title: "Homicidios en Ecuador - Año 2024" 
 date: 2024-04-31
 lastmod: 2024-05-08
 tags: ["GIS","mapping","webmap","Ecuador"]

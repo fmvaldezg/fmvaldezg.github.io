@@ -1,5 +1,5 @@
 ---
-title: "Temple University Bike Tour - Animated Map"
+title: "Tour de bicicleta de la Universidad de Temple - Mapa animado"
 date: 2024-04-28
 lastmod: 2024-05-08
 tags: ["webmap","animated","mapbox"]

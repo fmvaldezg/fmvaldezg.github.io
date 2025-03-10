@@ -1,5 +1,5 @@
 ---
-title: "Housing Price Determinants in Ecuador: A Spatial Hedonic Analysis" 
+title: "Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial" 
 date: 2024-06-01
 url: /paper1/
 aliases: 

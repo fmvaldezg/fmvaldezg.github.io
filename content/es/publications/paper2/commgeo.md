@@ -1,5 +1,5 @@
 ---
-title: "Broadening participation, creating community, and learning that it never goes as planned" 
+title: "Ampliando la participación, creando comunidad y aprendiendo que nunca sale según lo planeado" 
 date: 2021-05-14
 url: /paper2/
 aliases: 
