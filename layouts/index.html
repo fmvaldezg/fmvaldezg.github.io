@@ -4,9 +4,9 @@
     {{- else }}
         <div class="language-switch-home" style="text-align: center; margin: 15px 0;">
             {{ if eq .Lang "en" }}
-                <a href="{{ "/es/" | relLangURL }}" style="padding: 5px 10px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none;">Ver en Español</a>
+                <a href="{{ "es" | absLangURL }}" style="padding: 5px 10px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none;">Ver en Español</a>
             {{ else }}
-                <a href="{{ "/" | relLangURL }}" style="padding: 5px 10px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none;">View in English</a>
+                <a href="{{ "/" | absLangURL }}" style="padding: 5px 10px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none;">View in English</a>
             {{ end }}
         </div>
         {{ partial "index_profile.html" . }}
