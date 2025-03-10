@@ -1,7 +1,19 @@
-<div class="language-selector" style="text-align: center; margin: 10px 0;">
-  {{ if eq .Lang "en" }}
-    <a href="{{ "/es/" | relLangURL }}">Ver en Español</a>
-  {{ else }}
-    <a href="{{ "/" | relLangURL }}">View in English</a>
+<div class="language-switch-home" style="text-align: center; margin: 15px 0;">
+  {{ $siteLanguages := .Site.Languages }}
+  {{ $pageLang := .Lang }}
+  
+  {{ range .Site.Languages }}
+      {{ if ne $pageLang .Lang }}
+          {{ $pageURL := "" }}
+          {{ if eq .Lang "en" }}
+              {{ $pageURL = "/" }}
+          {{ else }}
+              {{ $pageURL = print "/" .Lang "/" }}
+          {{ end }}
+          
+          <a href="{{ $pageURL }}" style="padding: 5px 10px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none;">
+              {{ if eq .Lang "en" }}View in English{{ else }}Ver en Español{{ end }}
+          </a>
+      {{ end }}
   {{ end }}
 </div>

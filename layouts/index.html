@@ -1,7 +1,8 @@
-<div class="language-switch-home" style="text-align: center; margin: 15px 0;">
-    {{ if eq .Lang "en" }}
-        <a href="https://felipevaldez.com/es/" style="padding: 5px 10px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none;">Ver en Español</a>
-    {{ else }}
-        <a href="https://felipevaldez.com/" style="padding: 5px 10px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none;">View in English</a>
-    {{ end }}
-</div>
+{{ define "main" }}
+    {{- if (not .Site.Params.profileMode.enabled) }}
+        {{ partial "index_profile.html" . }}
+    {{- else }}
+        {{ partial "language-switcher.html" . }}
+        {{ partial "index_profile.html" . }}
+    {{- end }}
+{{ end }}
