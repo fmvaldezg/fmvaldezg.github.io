@@ -6,17 +6,8 @@ aliases:
     - /old_url.html
 tags: ["housing prices","GWR", "spatial effects", "GIS"]
 author: ["Felipe Valdez", "Xuwei Chen"]
-description: "This study compares both non-spatial and spatial regression
-models to examine the factors associated with housing prices based on the
-municipal housing appraisal and real estate datasets for the city of Quito, Ecuador." 
-summary: "This study compares both non-spatial and spatial regression
-models to examine the factors associated with housing prices based on the
-municipal housing appraisal and real estate datasets for the city of Quito, Ecuador. The results suggest that compared to the
-traditional regression model, the GWR model is more effective at capturing
-housing market variations on a fine scale. Moreover, it reveals interesting findings
-on the spatial varying, sometimes opposite effects of some housing attributes on
-housing prices in different areas of the city, suggesting the potential impact from
-segregation."
+description: "Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador." 
+summary: "Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador. Los resultados sugieren que, en comparación con el modelo de regresión tradicional, el modelo GWR es más efectivo para capturar las variaciones del mercado inmobiliario a escala detallada. Además, revela hallazgos interesantes sobre los efectos espacialmente variables, a veces opuestos, de algunos atributos de vivienda en los precios en diferentes áreas de la ciudad, lo que sugiere el impacto potencial de la segregación."
 cover:
     image: "/publications/paper1/figure1.png"
     alt: "Figure from paper"
@@ -37,20 +28,19 @@ editPost:
 
 ---
 
-##### Abstract:
+##### Resumen:
 
-It is crucial to understand the spatial effects of relevant factors on housing price variations, especially under the context of market imperfections. However, few studies have applied methods such as the hedonic price model in developing countries. This study compares both non-spatial and spatial regression models to examine the factors associated with housing prices based on the municipal housing appraisal and real estate datasets for the city of Quito, Ecuador. A set of 17 variables including structural, neighborhood and location characteristics are investigated using a traditional linear regression model and a Geographically Weighted Regression (GWR) model. The results suggest that compared to the traditional regression model, the GWR model is more effective at capturing housing market variations on a fine scale. Moreover, it reveals interesting findings on the spatial varying, sometimes opposite effects of some housing attributes on housing prices in different areas of the city, suggesting the potential impact from
-segregation.
+Es crucial entender los efectos espaciales de factores relevantes en las variaciones de precios de vivienda, especialmente en el contexto de imperfecciones del mercado. Sin embargo, pocos estudios han aplicado métodos como el modelo de precios hedónicos en países en desarrollo. Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador. Se investiga un conjunto de 17 variables que incluyen características estructurales, de vecindario y de ubicación utilizando un modelo de regresión lineal tradicional y un modelo de Regresión Geográficamente Ponderada (GWR). Los resultados sugieren que, en comparación con el modelo de regresión tradicional, el modelo GWR es más efectivo para capturar las variaciones del mercado inmobiliario a escala detallada. Además, revela hallazgos interesantes sobre los efectos espacialmente variables, a veces opuestos, de algunos atributos de vivienda en los precios en diferentes áreas de la ciudad, lo que sugiere el impacto potencial de la segregación.
 
 ---
 
-##### Figure 2:  Local R2 distribution
+##### Figure 2:  Distribución del R2 local
 
 ![](/publications/paper1/figure2.png)
 
 ---
 
-##### Citation
+##### Citar
 
 Valdez Gómez de la Torre, F.M. and Chen, X. (2024), "Housing price determinants in Ecuador: a spatial hedonic analysis", International Journal of Housing Markets and Analysis, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/IJHMA-09-2023-0121.
 
@@ -68,6 +58,6 @@ year = {2024}}
 
 ---
 
-##### Related material
+##### Material relacionado
 
 <!--+ [Presentation slides](/presentation.pdf)-->

@@ -18,45 +18,42 @@ disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+## Introducción
 
-In December 2023, the first metro line in Quito began operations. Covering a 22-kilometer route, this is the city's first underground public transportation system. [Learn more](https://metrodequito.gob.ec/)
+En diciembre de 2023, la primera línea del metro de Quito comenzó operaciones. Cubriendo una ruta de 22 kilómetros, este es el primer sistema de transporte público subterráneo de la ciudad. [Más información](https://metrodequito.gob.ec/)
 
-This map shows the service areas from each of the 15 stations for walking, cycling, and driving. Four travel time intervals are used: 5, 10, 15, and 20 minutes from each station.
+Este mapa muestra las áreas de servicio desde cada una de las 15 estaciones para caminar, andar en bicicleta y conducir. Se utilizan cuatro intervalos de tiempo de viaje: 5, 10, 15 y 20 minutos desde cada estación.
 
 ---
 
-## The Map
+## El Mapa
 
 <iframe
   src="https://fmvaldezg.github.io/ISOmetroUIO/"
   style="width:100%; height:650px;"
 ></iframe>
 
-The map was build using Mapbox GL JS libraries and Mapbox Assembly for styling.
+El mapa fue construido utilizando las bibliotecas Mapbox GL JS y Mapbox Assembly para el estilo.
 
-The map shows the location of 15 stations of the Quito's subway. The user can select from three types of travelling: walking, biking and driving. Then a time threshold from 5 to 20 minutes can be selected. To visualize the resulting service area, one of the stations has to be selected fromt he dropdown menu. 
+El mapa muestra la ubicación de las 15 estaciones del metro de Quito. El usuario puede seleccionar entre tres tipos de desplazamiento: a pie, en bicicleta y en automóvil. Luego se puede seleccionar un umbral de tiempo de 5 a 20 minutos. Para visualizar el área de servicio resultante, se debe seleccionar una de las estaciones del menú desplegable.
 
-In the map, a red polygon will show the resulting service are for the type of travel and the time threshold selected.
+En el mapa, un polígono rojo mostrará el área de servicio resultante para el tipo de desplazamiento y el umbral de tiempo seleccionado.
 
-This tool helps identify gaps in the distribution of subway stations. Next steps include reporting the total number of poulation covered by the resulting service area.
+Esta herramienta ayuda a identificar brechas en la distribución de las estaciones de metro. Los siguientes pasos incluyen reportar el número total de población cubierta por el área de servicio resultante.
 
-
-Click [here](https://fmvaldezg.github.io/ISOmetroUIO/) to see the map in full screen.
-
+Haga clic [aquí](https://fmvaldezg.github.io/ISOmetroUIO/) para ver el mapa en pantalla completa.
 
 ---
 
-## The process
+## El proceso
 
-The service area isochrones are generated using the [Mapbox Isochrone API](https://docs.mapbox.com/api/navigation/isochrone/). 
+Las isócronas de áreas de servicio se generan utilizando la [API de Isócrona de Mapbox](https://docs.mapbox.com/api/navigation/isochrone/).
 
-The first two section of buttons set the parameters that populate the api call `profile` and `contours_minutes`.
-The `coordinates` parameter of the call is retrieved from a geojson file that stores the station locations, after the user selects one from the dropdown menu. Stations in the dropdown menu are listed from north to south. 
+Las dos primeras secciones de botones establecen los parámetros que completan la llamada a la API `profile` y `contours_minutes`.
+El parámetro `coordinates` de la llamada se obtiene de un archivo geojson que almacena las ubicaciones de las estaciones, después de que el usuario selecciona una del menú desplegable. Las estaciones en el menú desplegable están listadas de norte a sur.
 
-This is the first project using Mapbox GL JS Standard Style and the `slot: 'middle'` property to place the polygons below the buildings and above streets. 
+Este es el primer proyecto que utiliza Mapbox GL JS Standard Style y la propiedad `slot: 'middle'` para colocar los polígonos debajo de los edificios y encima de las calles.
 
 ---
 
-## Some insights
-
+## Algunas observaciones

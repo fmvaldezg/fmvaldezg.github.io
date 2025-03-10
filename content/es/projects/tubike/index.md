@@ -4,8 +4,8 @@ date: 2024-04-28
 lastmod: 2024-05-08
 tags: ["webmap","animated","mapbox"]
 author: "Felipe Valdez"
-description: "An animated map of the route of the Temple University Bike Tour 2024" 
-summary: "This map displays an animated route of the tour over a satellite image. The popup window over the marker shows the traveled distance" 
+description: "Un mapa animado de la ruta del Tour en Bicicleta de la Universidad de Temple 2024" 
+summary: "Este mapa muestra una ruta animada del tour sobre una imagen satelital. La ventana emergente sobre el marcador muestra la distancia recorrida" 
 cover:
     image: "/projects/tubike/tubike.png"
     alt: "Static image of a map of Philadelphia"
@@ -18,15 +18,15 @@ disableAnchoredHeadings: false
 
 ---
 
-## The Tour
+## El Tour
 
-On April 28th, Temple University organized 22-mile bike tour from Main Campus in Philadelphia to Temple Ambler.  
+El 28 de abril, la Universidad de Temple organizó un recorrido en bicicleta de 22 millas desde el Campus Principal en Filadelfia hasta Temple Ambler.
 
-[More Info on the Tour](https://ambler.temple.edu/community/temple-university-bike-tour)
+[Más información sobre el Tour](https://ambler.temple.edu/community/temple-university-bike-tour)
 
 ---
 
-## The Animated Map
+## Mapa animado
 
 <iframe
   src="https://fmvaldezg.github.io/bike-rideTU/"
@@ -36,7 +36,7 @@ On April 28th, Temple University organized 22-mile bike tour from Main Campus in
 
 
 <div style="line-height: 1.8;">
-The map shows a marker that follows the tour route over a satellite image. As the route progresses, a reddish line marks the path traveled. A window above the marker indicates the distance covered from the point of origin <a href="https://www.temple.edu/">Temple University Main Campus</a> to the marker's location. The animation starts automatically when the page loads but can be paused <img src="/projects/tubike/play.png" alt="Pause Button" style="display:inline; width:30px; height:auto; vertical-align: middle;"> or restarted <img src="/projects/tubike/rest.png" alt="Restart Button" style="display:inline; width:30px; height:auto; vertical-align: middle;"> using the buttons in the top right corner.
+El mapa muestra un marcador que sigue la ruta del tour sobre una imagen satelital. A medida que avanza la ruta, una línea rojiza marca el camino recorrido. Una ventana sobre el marcador indica la distancia cubierta desde el punto de origen <a href="https://www.temple.edu/">Campus Principal de la Universidad de Temple</a> hasta la ubicación del marcador. La animación comienza automáticamente cuando se carga la página pero puede ser pausada <img src="/projects/tubike/play.png" alt="Botón de Pausa" style="display:inline; width:30px; height:auto; vertical-align: middle;"> o reiniciada <img src="/projects/tubike/rest.png" alt="Botón de Reinicio" style="display:inline; width:30px; height:auto; vertical-align: middle;"> usando los botones en la esquina superior derecha.
 </div>
 
 
@@ -44,26 +44,26 @@ The map shows a marker that follows the tour route over a satellite image. As th
 
 
 <br></br>
-Click [here](https://fmvaldezg.github.io/bike-rideTU/) to see the map in full screen.
+Haga click [aquí](https://fmvaldezg.github.io/bike-rideTU/) para ver el mapa en pantall completa.
 
 
 ---
 
-## The process
+## El proceso
 
-The map was build using Mapbox GL JS libraries, Mapbox Assembly for styling and Turf to retreive and calculate the distance. 
+El mapa fue construido utilizando las bibliotecas Mapbox GL JS, Mapbox Assembly para el estilo y Turf para recuperar y calcular la distancia.
 
-1. A .gpx file was dowloaded from [here](https://web.archive.org/web/20240416173144/https://www.mapmyride.com/routes/view/5385860881).
-2. The .gpx file was converted to a Geojson format using QGIS.
-3. A basic HTML file to initiate the map was created following Mapbox [examples](https://docs.mapbox.com/mapbox-gl-js/example/) on their web.
-4. Temple University logos were added to the start and end points of the tour. 
-5. The code and data were hosted in github and deployed using github pages.
+1. Se descargó un archivo .gpx desde [aquí](https://web.archive.org/web/20240416173144/https://www.mapmyride.com/routes/view/5385860881).
+2. El archivo .gpx fue convertido a formato Geojson utilizando QGIS.
+3. Se creó un archivo HTML básico para iniciar el mapa siguiendo los [ejemplos](https://docs.mapbox.com/mapbox-gl-js/example/) de Mapbox en su web.
+4. Se añadieron los logos de la Universidad de Temple a los puntos de inicio y fin del tour.
+5. El código y los datos fueron alojados en github y desplegados usando github pages.
 
-### Settings
+### Configuraciones
 
-+ We used the `satellite-streets-v12` as the basemap.
-+ We used `path = turf.lineString()` and `pathDistance = turf.lineDistance(path)` to get the total distance.
-+ The `const alongPath = turf.along(path, distanceTraveled) .geometry.coordinates;` retrieves latitude and longitude on the path.
++ Utilizamos el `satellite-streets-v12` como mapa base.
++ Utilizamos `path = turf.lineString()` y `pathDistance = turf.lineDistance(path)` para obtener la distancia total.
++ El `const alongPath = turf.along(path, distanceTraveled).geometry.coordinates;` recupera latitud y longitud en la ruta.
 
 
 

@@ -27,7 +27,7 @@ languages:
       profileMode:
         enabled: true
         title: "Felipe Valdez, Ph.D."
-        subtitle: "[Spanish version of your subtitle]"
+        subtitle: "Geógrafo económico y urbano intercultural con más de 12 años de experiencia en educación superior e investigación académica. Dedicado a la aplicación de Sistemas de Información Geográfica y datos geoespaciales abiertos para desarrollar soluciones de planificación urbana para futuros sostenibles basados en la acción colectiva. He trabajado en instituciones públicas a nivel nacional en Ecuador, durante 10 años como profesor e investigador en programas de pregrado y posgrado en Ecuador, y como consultor en proyectos. Actualmente, soy el especialista en Sistemas de Información Geográfica en la biblioteca de la Universidad de Temple en Filadelfia. Mi experiencia educativa y profesional en Ecuador, Francia y Estados Unidos me ha dado un fuerte compromiso con la equidad, la diversidad y la inclusión. En mi trabajo, combino mi pasión por enseñar a todos a usar mapas y datos como formas de comunicación, y mi deseo de construir sociedades más equitativas y justas."
     menu:
       main:
         - name: Publicaciones

@@ -4,8 +4,8 @@ date: 2023-09-31
 lastmod: 2023-10-08
 tags: ["GIS","mapping","webmap","Ecuador", "Quito", "fire"]
 author: ["Felipe Valdez"]
-description: "A map showing the location of fires detected by satellite imegery in Quito." 
-summary: "This map shows the location of fires detected using satellite imagery in Quito during August 2023." 
+description: "Un mapa que muestra la ubicación de incendios detectados por imágenes satelitales en Quito." 
+summary: "Este mapa muestra la ubicación de incendios detectados mediante imágenes satelitales en Quito durante agosto de 2023." 
 cover:
     image: "/projects/firesuio23/firesuio23.png"
     alt: "Map of Quito with red spots"
@@ -18,40 +18,42 @@ disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+## Introducción
 
-During the dry season (June - August), fires are often frequent in the Andean region of Ecuador, especially near the cities. In the year 2023, an unusual number of fires occurred near Quito, some of which suspiciously started at night. 
-This map uses data from [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/) (Fire Information for Resource Management System) and shows a time animation of the fire events from August 1 to September 19, 2023. 
-The map allows filtering of the events based on the time of occurrence, day/night.
+Durante la estación seca (junio - agosto), los incendios son frecuentes en la región andina de Ecuador, especialmente cerca de las ciudades. En el año 2023, ocurrió un número inusual de incendios cerca de Quito, algunos de los cuales comenzaron sospechosamente durante la noche.
+
+Este mapa utiliza datos de [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/) (Sistema de Información de Incendios para Gestión de Recursos) y muestra una animación temporal de los eventos de incendios desde el 1 de agosto hasta el 19 de septiembre de 2023.
+
+El mapa permite filtrar los eventos según la hora de ocurrencia, día/noche.
 
 ---
 
-## The Map
+## El mapa
 
 <iframe
   src="https://fmvaldezg.github.io/Quito_Fires2023/"
   style="width:100%; height:650px;"
 ></iframe>
 
-The map was build using Mapbox GL JS libraries and Mapbox Assembly for styling.
+El mapa fue construido utilizando las bibliotecas Mapbox GL JS y Mapbox Assembly para el estilo.
 
-The map shows the location of fire events according to heat points (above 200 degrees Kelvin) in the Visible Infrared Imaging Radiometer Suite (VIIRS) images. The color and size of the markers are defined by the brightness of the event. 
+El mapa muestra la ubicación de eventos de incendios según puntos de calor (por encima de 200 grados Kelvin) en las imágenes del Visible Infrared Imaging Radiometer Suite (VIIRS). El color y tamaño de los marcadores están definidos por el brillo del evento.
 
-The map has a default animation that progresses through the dates and displays the events cumulatively. The animation can be paused and resumed at any time. The timeline indicator can be grabbed and moved to a specific moment. 
+El mapa tiene una animación predeterminada que avanza a través de las fechas y muestra los eventos de forma acumulativa. La animación puede ser pausada y reanudada en cualquier momento. 
 
-The three buttons allow filtering for "all" events, or only those that occurred during the "day" or "night."
+El indicador de línea de tiempo puede ser arrastrado y movido a un momento específico.
 
-
-Click [here](https://fmvaldezg.github.io/Quito_Fires2023/) to see the map in full screen.
-
-
----
-
-## The process
-
+Los tres botones permiten filtrar por eventos "todos", o solo aquellos que ocurrieron durante el "día" o la "noche".
+Haga clic aquí para ver el mapa en pantalla completa.
 
 
 ---
 
-## Some insights
+## El proceso
+
+
+
+---
+
+## Algunas observaciones
 

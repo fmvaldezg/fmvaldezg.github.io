@@ -1,4 +1,4 @@
 ---
 title: "Mapping Projects"
-description: "Mapping and Spatial Analysis Projects by Felipe Valdez."
+description: "Proyectos de mapeo y analisis espacial por Felipe Valdez."
 ---
