@@ -14,3 +14,12 @@
 .dark .language-switch-home a:hover {
     background-color: #333;
 }
+
+/* Style the language switcher to match menu items */
+#menu li:last-child a {
+    text-decoration: none;
+}
+
+#menu li:last-child a:hover {
+    text-decoration: underline;
+}

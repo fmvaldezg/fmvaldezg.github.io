@@ -2,7 +2,6 @@
     {{- if (not .Site.Params.profileMode.enabled) }}
         {{ partial "index_profile.html" . }}
     {{- else }}
-        {{ partial "language-switcher.html" . }}
         {{ partial "index_profile.html" . }}
     {{- end }}
 {{ end }}
