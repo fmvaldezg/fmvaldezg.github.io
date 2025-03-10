@@ -1,7 +1,0 @@
-{{ define "main" }}
-    {{- if (not .Site.Params.profileMode.enabled) }}
-        {{ partial "index_profile.html" . }}
-    {{- else }}
-        {{ partial "index_profile.html" . }}
-    {{- end }}
-{{ end }}
