@@ -23,6 +23,11 @@ languages:
     languageName: "Español"
     contentDir: "content/es"
     weight: 2
+    params:
+      profileMode:
+        enabled: true
+        title: "Felipe Valdez, Ph.D."
+        subtitle: "[Spanish version of your subtitle]"
     menu:
       main:
         - name: Publicaciones

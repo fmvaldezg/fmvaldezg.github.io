@@ -1,0 +1,16 @@
+.language-switch-home a {
+    transition: background-color 0.3s ease;
+}
+
+.language-switch-home a:hover {
+    background-color: #f0f0f0;
+}
+
+/* For dark mode */
+.dark .language-switch-home a {
+    border-color: #444;
+}
+
+.dark .language-switch-home a:hover {
+    background-color: #333;
+}

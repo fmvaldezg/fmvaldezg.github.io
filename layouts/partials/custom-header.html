@@ -1,0 +1,8 @@
+{{ partial "header.html" . }}
+<div class="custom-lang-switch" style="text-align: center; margin: 10px 0;">
+    {{ if eq .Lang "en" }}
+        <a href="{{ "/es/" | absLangURL }}">Ver en Español</a>
+    {{ else }}
+        <a href="{{ "/" | absLangURL }}">View in English</a>
+    {{ end }}
+</div>

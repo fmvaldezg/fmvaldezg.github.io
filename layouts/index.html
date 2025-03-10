@@ -1,0 +1,14 @@
+{{ define "main" }}
+    {{- if (not .Site.Params.profileMode.enabled) }}
+        {{ partial "index_profile.html" . }}
+    {{- else }}
+        <div class="language-switch-home" style="text-align: center; margin: 15px 0;">
+            {{ if eq .Lang "en" }}
+                <a href="{{ "/es/" | relLangURL }}" style="padding: 5px 10px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none;">Ver en Español</a>
+            {{ else }}
+                <a href="{{ "/" | relLangURL }}" style="padding: 5px 10px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none;">View in English</a>
+            {{ end }}
+        </div>
+        {{ partial "index_profile.html" . }}
+    {{- end }}
+{{ end }}
