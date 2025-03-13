@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Publications on Felipe Valdez Gómez de la Torre</title>
-    <link>http://localhost:1313/es/publications/</link>
+    <link>https://felipevaldez.com/es/publications/</link>
     <description>Recent content in Publications on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/es/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial</title>
-      <link>http://localhost:1313/paper1/</link>
+      <link>https://felipevaldez.com/paper1/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paper1/</guid>
+      <guid>https://felipevaldez.com/paper1/</guid>
       <description>Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador.</description>
     </item>
     
     <item>
       <title>Ampliando la participación, creando comunidad y aprendiendo que nunca sale según lo planeado</title>
-      <link>http://localhost:1313/paper2/</link>
+      <link>https://felipevaldez.com/paper2/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paper2/</guid>
+      <guid>https://felipevaldez.com/paper2/</guid>
       <description>Este artículo discute un curso de aprendizaje-servicio que utilizó geografía comunitaria para evaluar un centro de investigación y comunitario propuesto en DeKalb, IL. A medida que los estudiantes interactuaban con las comunidades universitarias y locales, descubrimos preocupaciones e intereses compartidos, lo que llevó a análisis y recomendaciones colaborativas. El proyecto destaca la efectividad de la geografía comunitaria para fomentar discusiones significativas y abordar problemas compartidos, ofreciendo perspectivas para futuros estudios de relaciones entre la ciudad y la universidad.</description>
     </item>
     
