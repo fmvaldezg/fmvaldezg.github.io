@@ -1,6 +1,6 @@
 ---
 title: "Homicides in Ecuador - Year 2024" 
-date: 2024-04-31
+date: 2024-04-30
 lastmod: 2024-05-08
 tags: ["GIS","mapping","webmap","Ecuador"]
 author: ["Felipe Valdez"]

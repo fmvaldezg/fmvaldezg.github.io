@@ -20,6 +20,9 @@ languages:
           weight: 2
   
   es:
+    languageName: "Español"
+    contentDir: "content/es"
+    weight: 2 
     params:
       profileMode:
         enabled: true
@@ -32,8 +35,10 @@ languages:
         buttons:
           - name: Publicaciones
             url: publications/
+            weight: 1
           - name: Proyectos de Mapeo
             url: projects/
+            weight: 2
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -73,13 +78,13 @@ params:
           imageWidth: 160
           imageHeight: 160
           imageTitle: Felipe Valdez
-          #buttons:
-          #  - name: Publications
-          #    url: publications/
+          buttons:
+            - name: Publications
+              url: publications/
             #- name: Papers
             #  url: papers/
-          #  - name: Mapping Projects
-          #    url: projects/
+            - name: Mapping Projects
+              url: projects/
             #- name: Data
             #  url: data/
             #- name: Tags

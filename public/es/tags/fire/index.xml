@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fire on Felipe Valdez Gómez de la Torre</title>
+    <link>https://felipevaldez.com/es/tags/fire/</link>
+    <description>Recent content in Fire on Felipe Valdez Gómez de la Torre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/es/tags/fire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incendios en Quito - August 2023</title>
+      <link>https://felipevaldez.com/es/projects/firesuio23/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipevaldez.com/es/projects/firesuio23/</guid>
+      <description>Un mapa que muestra la ubicación de incendios detectados por imágenes satelitales en Quito.</description>
+    </item>
+    
+  </channel>
+</rss>
