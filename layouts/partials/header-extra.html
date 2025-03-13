@@ -1,0 +1,7 @@
+<div style="text-align: right; margin: 10px 20px;">
+    {{ range .Translations }}
+    <a href="{{ .Permalink }}" style="font-size: 0.9rem; padding: 2px 8px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #777777;">
+      {{ if eq .Lang "en" }}View in English{{ else }}Ver en Español{{ end }}
+    </a>
+    {{ end }}
+  </div>

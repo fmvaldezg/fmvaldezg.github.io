@@ -1,7 +1,315 @@
-<div style="text-align: right; margin: 10px 20px;">
-  
-  <a href="https://felipevaldez.com/paper1/" style="font-size: 0.6rem; padding: 2px 8px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #adadad; display: inline-block;">
-    View in English
-  </a>
-  
+<!DOCTYPE html>
+<html lang="es" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial | Felipe Valdez Gómez de la Torre</title>
+<meta name="keywords" content="housing prices, GWR, spatial effects, GIS">
+<meta name="description" content="Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador.">
+<meta name="author" content="Felipe Valdez,&thinsp;Xuwei Chen">
+<link rel="canonical" href="https://felipevaldez.com/paper1/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d1c6ad5c596c290f2a1a8b148c659ac1a764583a951db526ed017f7e1219a83e.css" integrity="sha256-0catXFlsKQ8qGosUjGWawadkWDqVHbUm7QF/fhIZqD4=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://felipevaldez.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://felipevaldez.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://felipevaldez.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://felipevaldez.com/apple-touch-icon.png">
+
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://felipevaldez.com/paper1/">
+<link rel="alternate" hreflang="es" href="https://felipevaldez.com/paper1/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial" />
+<meta property="og:description" content="Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://felipevaldez.com/paper1/" />
+<meta property="og:image" content="https://felipevaldez.com/publications/paper1/figure1.png" /><meta property="article:section" content="publications" />
+<meta property="article:published_time" content="2024-06-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-06-01T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://felipevaldez.com/publications/paper1/figure1.png" />
+<meta name="twitter:title" content="Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial"/>
+<meta name="twitter:description" content="Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Publications",
+      "item": "https://felipevaldez.com/es/publications/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial",
+      "item": "https://felipevaldez.com/paper1/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial",
+  "name": "Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial",
+  "description": "Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador.",
+  "keywords": [
+    "housing prices", "GWR", "spatial effects", "GIS"
+  ],
+  "articleBody": " Download: Paper Online Resumen: Es crucial entender los efectos espaciales de factores relevantes en las variaciones de precios de vivienda, especialmente en el contexto de imperfecciones del mercado. Sin embargo, pocos estudios han aplicado métodos como el modelo de precios hedónicos en países en desarrollo. Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador. Se investiga un conjunto de 17 variables que incluyen características estructurales, de vecindario y de ubicación utilizando un modelo de regresión lineal tradicional y un modelo de Regresión Geográficamente Ponderada (GWR). Los resultados sugieren que, en comparación con el modelo de regresión tradicional, el modelo GWR es más efectivo para capturar las variaciones del mercado inmobiliario a escala detallada. Además, revela hallazgos interesantes sobre los efectos espacialmente variables, a veces opuestos, de algunos atributos de vivienda en los precios en diferentes áreas de la ciudad, lo que sugiere el impacto potencial de la segregación.\nFigure 2: Distribución del R2 local Citar Valdez Gómez de la Torre, F.M. and Chen, X. (2024), “Housing price determinants in Ecuador: a spatial hedonic analysis”, International Journal of Housing Markets and Analysis, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/IJHMA-09-2023-0121 .\n@article{VC24, author = {Felipe Valdez and Xuwei Chen}, doi = {https://doi.org/10.1108/IJHMA-09-2023-0121}, journal = {International Journal of Housing Markets and Analysis}, number = {Issue}, pages = {XXX--YYY}, title = {Housing price determinants in Ecuador: a spatial hedonic analysis}, volume = {ahead-of-print}, year = {2024}} Material relacionado ",
+  "wordCount" : "261",
+  "inLanguage": "es",
+  "image":"https://felipevaldez.com/publications/paper1/figure1.png","datePublished": "2024-06-01T00:00:00Z",
+  "dateModified": "2024-06-01T00:00:00Z",
+  "author":[{
+    "@type": "Person",
+    "name": "Felipe Valdez"
+  }, {
+    "@type": "Person",
+    "name": "Xuwei Chen"
+  }],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://felipevaldez.com/paper1/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Felipe Valdez Gómez de la Torre",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://felipevaldez.com/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RC52W8J799"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RC52W8J799');
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          
+          
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top"><header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://felipevaldez.com/es/" accesskey="h" title="Felipe Valdez Gómez de la Torre">
+                <img src="https://felipevaldez.com/favicon.ico" alt="" aria-label="logo" height="18" width="18">Felipe Valdez Gómez de la Torre</a>
+        </div>
+        <ul id="menu">
+            
+            
+            
+            <li>
+                
+                
+                    <a href="/" style="font-size: 0.9rem;">
+                        View in English
+                    </a>
+                
+            </li>
+        </ul>
+    </nav>
+</header>
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial
+    </h1>
+    <footer class="post-footer">
+      <ul class="post-tags">
+        <li><a href="https://felipevaldez.com/es/tags/housing-prices/">Housing Prices</a></li>
+        <li><a href="https://felipevaldez.com/es/tags/gwr/">GWR</a></li>
+        <li><a href="https://felipevaldez.com/es/tags/spatial-effects/">Spatial Effects</a></li>
+        <li><a href="https://felipevaldez.com/es/tags/gis/">GIS</a></li>
+      </ul>
+    </footer>
+    <div class="post-description">
+      Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador.
+    </div>
+    <div class="post-meta"><span title='2024-06-01 00:00:00 +0000 UTC'>junio 2024</span>&nbsp;&middot;&nbsp;Felipe Valdez,&thinsp;Xuwei Chen&nbsp;|&nbsp;Traducciones:
+<ul class="i18n_list">
+    <li>
+        <a href="https://felipevaldez.com/paper1/">English</a>
+    </li>
+</ul>&nbsp;&middot;&nbsp;<a href="https://doi.org/paper_doi" rel="noopener noreferrer" target="_blank">International Journal of Housing Markets and Analysis</a>
+
 </div>
+  </header> 
+  <div class="post-content"><hr>
+<h5 id="download">Download:</h5>
+<ul>
+<li><a href="https://raw.githubusercontent.com/fmvaldezg/fmvaldezg.github.io/main/public/publications/paper1/housing_prices.PDF" target="_blank">Paper</a>
+</li>
+<li><a href="https://www.emerald.com/insight/content/doi/10.1108/IJHMA-09-2023-0121/full/html?skipTracking=true" target="_blank">Online</a>
+</li>
+</ul>
+<!--- [Code and data](https://github.com/paper_repo)-->
+<hr>
+<h5 id="resumen">Resumen:</h5>
+<p>Es crucial entender los efectos espaciales de factores relevantes en las variaciones de precios de vivienda, especialmente en el contexto de imperfecciones del mercado. Sin embargo, pocos estudios han aplicado métodos como el modelo de precios hedónicos en países en desarrollo. Este estudio compara modelos de regresión tanto no espaciales como espaciales para examinar los factores asociados con los precios de vivienda basados en los conjuntos de datos de avalúos municipales e inmobiliarios para la ciudad de Quito, Ecuador. Se investiga un conjunto de 17 variables que incluyen características estructurales, de vecindario y de ubicación utilizando un modelo de regresión lineal tradicional y un modelo de Regresión Geográficamente Ponderada (GWR). Los resultados sugieren que, en comparación con el modelo de regresión tradicional, el modelo GWR es más efectivo para capturar las variaciones del mercado inmobiliario a escala detallada. Además, revela hallazgos interesantes sobre los efectos espacialmente variables, a veces opuestos, de algunos atributos de vivienda en los precios en diferentes áreas de la ciudad, lo que sugiere el impacto potencial de la segregación.</p>
+<hr>
+<h5 id="figure-2--distribución-del-r2-local">Figure 2:  Distribución del R2 local</h5>
+<p><img loading="lazy" src="/publications/paper1/figure2.png" alt=""  />
+</p>
+<hr>
+<h5 id="citar">Citar</h5>
+<p>Valdez Gómez de la Torre, F.M. and Chen, X. (2024), &ldquo;Housing price determinants in Ecuador: a spatial hedonic analysis&rdquo;, International Journal of Housing Markets and Analysis, Vol. ahead-of-print No. ahead-of-print. <a href="https://doi.org/10.1108/IJHMA-09-2023-0121" target="_blank">https://doi.org/10.1108/IJHMA-09-2023-0121</a>
+.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-BibTeX" data-lang="BibTeX"><span style="display:flex;"><span><span style="color:#0a0;text-decoration:underline">@article</span>{VC24,
+</span></span><span style="display:flex;"><span><span style="color:#1e90ff">author</span> = <span style="color:#a50">{Felipe Valdez and Xuwei Chen}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#1e90ff">doi</span> = <span style="color:#a50">{https://doi.org/10.1108/IJHMA-09-2023-0121}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#1e90ff">journal</span> = <span style="color:#a50">{International Journal of Housing Markets and Analysis}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#1e90ff">number</span> = <span style="color:#a50">{Issue}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#1e90ff">pages</span> = <span style="color:#a50">{XXX--YYY}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#1e90ff">title</span> = <span style="color:#a50">{Housing price determinants in Ecuador: a spatial hedonic analysis}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#1e90ff">volume</span> = <span style="color:#a50">{ahead-of-print}</span>,
+</span></span><span style="display:flex;"><span><span style="color:#1e90ff">year</span> = <span style="color:#a50">{2024}</span>}
+</span></span></code></pre></div><hr>
+<h5 id="material-relacionado">Material relacionado</h5>
+<!--+ [Presentation slides](/presentation.pdf)-->
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://felipevaldez.com/es/tags/housing-prices/">Housing Prices</a></li>
+      <li><a href="https://felipevaldez.com/es/tags/gwr/">GWR</a></li>
+      <li><a href="https://felipevaldez.com/es/tags/spatial-effects/">Spatial Effects</a></li>
+      <li><a href="https://felipevaldez.com/es/tags/gis/">GIS</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copiar';
+
+        function copyingDone() {
+            copybutton.innerHTML = '¡copiado!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copiar';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>

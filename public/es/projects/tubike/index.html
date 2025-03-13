@@ -1,7 +1,331 @@
-<div style="text-align: right; margin: 10px 20px;">
-  
-  <a href="https://felipevaldez.com/projects/tubike/" style="font-size: 0.6rem; padding: 2px 8px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #adadad; display: inline-block;">
-    View in English
-  </a>
-  
+<!DOCTYPE html>
+<html lang="es" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Tour de bicicleta de la Universidad de Temple - Mapa animado | Felipe Valdez Gómez de la Torre</title>
+<meta name="keywords" content="webmap, animated, mapbox">
+<meta name="description" content="Un mapa animado de la ruta del Tour en Bicicleta de la Universidad de Temple 2024">
+<meta name="author" content="Felipe Valdez">
+<link rel="canonical" href="https://felipevaldez.com/es/projects/tubike/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d1c6ad5c596c290f2a1a8b148c659ac1a764583a951db526ed017f7e1219a83e.css" integrity="sha256-0catXFlsKQ8qGosUjGWawadkWDqVHbUm7QF/fhIZqD4=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://felipevaldez.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://felipevaldez.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://felipevaldez.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://felipevaldez.com/apple-touch-icon.png">
+
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://felipevaldez.com/projects/tubike/">
+<link rel="alternate" hreflang="es" href="https://felipevaldez.com/es/projects/tubike/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Tour de bicicleta de la Universidad de Temple - Mapa animado" />
+<meta property="og:description" content="Un mapa animado de la ruta del Tour en Bicicleta de la Universidad de Temple 2024" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://felipevaldez.com/es/projects/tubike/" />
+<meta property="og:image" content="https://felipevaldez.com/projects/tubike/tubike.png" /><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2024-04-28T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-05-08T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://felipevaldez.com/projects/tubike/tubike.png" />
+<meta name="twitter:title" content="Tour de bicicleta de la Universidad de Temple - Mapa animado"/>
+<meta name="twitter:description" content="Un mapa animado de la ruta del Tour en Bicicleta de la Universidad de Temple 2024"/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Mapping Projects",
+      "item": "https://felipevaldez.com/es/projects/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Tour de bicicleta de la Universidad de Temple - Mapa animado",
+      "item": "https://felipevaldez.com/es/projects/tubike/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Tour de bicicleta de la Universidad de Temple - Mapa animado",
+  "name": "Tour de bicicleta de la Universidad de Temple - Mapa animado",
+  "description": "Un mapa animado de la ruta del Tour en Bicicleta de la Universidad de Temple 2024",
+  "keywords": [
+    "webmap", "animated", "mapbox"
+  ],
+  "articleBody": "El Tour El 28 de abril, la Universidad de Temple organizó un recorrido en bicicleta de 22 millas desde el Campus Principal en Filadelfia hasta Temple Ambler.\nMás información sobre el Tour Mapa animado El mapa muestra un marcador que sigue la ruta del tour sobre una imagen satelital. A medida que avanza la ruta, una línea rojiza marca el camino recorrido. Una ventana sobre el marcador indica la distancia cubierta desde el punto de origen Campus Principal de la Universidad de Temple hasta la ubicación del marcador. La animación comienza automáticamente cuando se carga la página pero puede ser pausada o reiniciada usando los botones en la esquina superior derecha. Haga click aquí para ver el mapa en pantall completa.\nEl proceso El mapa fue construido utilizando las bibliotecas Mapbox GL JS, Mapbox Assembly para el estilo y Turf para recuperar y calcular la distancia.\nSe descargó un archivo .gpx desde aquí . El archivo .gpx fue convertido a formato Geojson utilizando QGIS. Se creó un archivo HTML básico para iniciar el mapa siguiendo los ejemplos de Mapbox en su web. Se añadieron los logos de la Universidad de Temple a los puntos de inicio y fin del tour. El código y los datos fueron alojados en github y desplegados usando github pages. Configuraciones Utilizamos el satellite-streets-v12 como mapa base. Utilizamos path = turf.lineString() y pathDistance = turf.lineDistance(path) para obtener la distancia total. El const alongPath = turf.along(path, distanceTraveled).geometry.coordinates; recupera latitud y longitud en la ruta. ",
+  "wordCount" : "247",
+  "inLanguage": "es",
+  "image":"https://felipevaldez.com/projects/tubike/tubike.png","datePublished": "2024-04-28T00:00:00Z",
+  "dateModified": "2024-05-08T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Felipe Valdez"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://felipevaldez.com/es/projects/tubike/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Felipe Valdez Gómez de la Torre",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://felipevaldez.com/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RC52W8J799"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RC52W8J799');
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          
+          
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top"><header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://felipevaldez.com/es/" accesskey="h" title="Felipe Valdez Gómez de la Torre">
+                <img src="https://felipevaldez.com/favicon.ico" alt="" aria-label="logo" height="18" width="18">Felipe Valdez Gómez de la Torre</a>
+        </div>
+        <ul id="menu">
+            
+            
+            
+            <li>
+                
+                
+                    <a href="/" style="font-size: 0.9rem;">
+                        View in English
+                    </a>
+                
+            </li>
+        </ul>
+    </nav>
+</header>
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Tour de bicicleta de la Universidad de Temple - Mapa animado
+    </h1>
+    <footer class="post-footer">
+      <ul class="post-tags">
+        <li><a href="https://felipevaldez.com/es/tags/webmap/">Webmap</a></li>
+        <li><a href="https://felipevaldez.com/es/tags/animated/">Animated</a></li>
+        <li><a href="https://felipevaldez.com/es/tags/mapbox/">Mapbox</a></li>
+      </ul>
+    </footer>
+    <div class="post-description">
+      Un mapa animado de la ruta del Tour en Bicicleta de la Universidad de Temple 2024
+    </div>
+    <div class="post-meta"><span title='2024-04-28 00:00:00 +0000 UTC'>abril 2024</span>&nbsp;&middot;&nbsp;Felipe Valdez&nbsp;|&nbsp;Traducciones:
+<ul class="i18n_list">
+    <li>
+        <a href="https://felipevaldez.com/projects/tubike/">English</a>
+    </li>
+</ul>&nbsp;&middot;&nbsp;<a href="https://github.com/fmvaldezg/bike-rideTU" rel="noopener noreferrer" target="_blank">TU Bike Tour</a>
+
 </div>
+  </header> <div class="toc">
+    <details  open>
+        <summary accesskey="c">
+            <span class="details">Tabla de Contenidos</span>
+        </summary>
+
+        <div class="inner"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#el-tour">El Tour</a></li>
+    <li><a href="#mapa-animado">Mapa animado</a></li>
+    <li><a href="#el-proceso">El proceso</a></li>
+  </ul>
+</nav>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h2 id="el-tour">El Tour<a hidden class="anchor" aria-hidden="true" href="#el-tour">#</a></h2>
+<p>El 28 de abril, la Universidad de Temple organizó un recorrido en bicicleta de 22 millas desde el Campus Principal en Filadelfia hasta Temple Ambler.</p>
+<p><a href="https://ambler.temple.edu/community/temple-university-bike-tour" target="_blank">Más información sobre el Tour</a>
+</p>
+<hr>
+<h2 id="mapa-animado">Mapa animado<a hidden class="anchor" aria-hidden="true" href="#mapa-animado">#</a></h2>
+<iframe
+  src="https://fmvaldezg.github.io/bike-rideTU/"
+  style="width:100%; height:400px;"
+></iframe>
+<div style="line-height: 1.8;">
+El mapa muestra un marcador que sigue la ruta del tour sobre una imagen satelital. A medida que avanza la ruta, una línea rojiza marca el camino recorrido. Una ventana sobre el marcador indica la distancia cubierta desde el punto de origen <a href="https://www.temple.edu/">Campus Principal de la Universidad de Temple</a> hasta la ubicación del marcador. La animación comienza automáticamente cuando se carga la página pero puede ser pausada <img src="/projects/tubike/play.png" alt="Botón de Pausa" style="display:inline; width:30px; height:auto; vertical-align: middle;"> o reiniciada <img src="/projects/tubike/rest.png" alt="Botón de Reinicio" style="display:inline; width:30px; height:auto; vertical-align: middle;"> usando los botones en la esquina superior derecha.
+</div>
+<p><br></br>
+Haga click <a href="https://fmvaldezg.github.io/bike-rideTU/" target="_blank">aquí</a>
+ para ver el mapa en pantall completa.</p>
+<hr>
+<h2 id="el-proceso">El proceso<a hidden class="anchor" aria-hidden="true" href="#el-proceso">#</a></h2>
+<p>El mapa fue construido utilizando las bibliotecas Mapbox GL JS, Mapbox Assembly para el estilo y Turf para recuperar y calcular la distancia.</p>
+<ol>
+<li>Se descargó un archivo .gpx desde <a href="https://web.archive.org/web/20240416173144/https://www.mapmyride.com/routes/view/5385860881" target="_blank">aquí</a>
+.</li>
+<li>El archivo .gpx fue convertido a formato Geojson utilizando QGIS.</li>
+<li>Se creó un archivo HTML básico para iniciar el mapa siguiendo los <a href="https://docs.mapbox.com/mapbox-gl-js/example/" target="_blank">ejemplos</a>
+ de Mapbox en su web.</li>
+<li>Se añadieron los logos de la Universidad de Temple a los puntos de inicio y fin del tour.</li>
+<li>El código y los datos fueron alojados en github y desplegados usando github pages.</li>
+</ol>
+<h3 id="configuraciones">Configuraciones<a hidden class="anchor" aria-hidden="true" href="#configuraciones">#</a></h3>
+<ul>
+<li>Utilizamos el <code>satellite-streets-v12</code> como mapa base.</li>
+<li>Utilizamos <code>path = turf.lineString()</code> y <code>pathDistance = turf.lineDistance(path)</code> para obtener la distancia total.</li>
+<li>El <code>const alongPath = turf.along(path, distanceTraveled).geometry.coordinates;</code> recupera latitud y longitud en la ruta.</li>
+</ul>
+<hr>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://felipevaldez.com/es/tags/webmap/">Webmap</a></li>
+      <li><a href="https://felipevaldez.com/es/tags/animated/">Animated</a></li>
+      <li><a href="https://felipevaldez.com/es/tags/mapbox/">Mapbox</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copiar';
+
+        function copyingDone() {
+            copybutton.innerHTML = '¡copiado!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copiar';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>
