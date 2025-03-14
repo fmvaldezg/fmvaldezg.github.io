@@ -7,7 +7,7 @@ author: ["Felipe Valdez"]
 description: "Ultra is a web application that helps you create custom interactive maps using OpenStreetMap data." 
 summary: "This tutorial shows you step-by-step how to build map queries, style map elements with different colors, add interactive features like popups and navigation controls, and share your finished maps online. Using a practical example of mapping parks in Philadelphia, it teaches beginners how to transform geographic data into visually appealing, useful maps without needing advanced technical skills." 
 cover:
-    image: "paper1.png"
+    image: "tutorial1.png"
     alt: "Ultra Tutorial"
     relative: false
 #editPost:
