@@ -6,7 +6,16 @@
     <description>Recent content in Felipe Valdez, Ph.D. on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultra (Overpass Ultra) Tutorial</title>
+      <link>https://felipevaldez.com/tutorials/tutorial1/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipevaldez.com/tutorials/tutorial1/</guid>
+      <description>Ultra is a web application that helps you create custom interactive maps using OpenStreetMap data.</description>
+    </item>
+    
     <item>
       <title>Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial</title>
       <link>https://felipevaldez.com/paper1/</link>
@@ -158,15 +167,6 @@
       
       <guid>https://felipevaldez.com/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
-    </item>
-    
-    <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>https://felipevaldez.com/papers/paper1/</link>
-      <pubDate>Wed, 15 Oct 2003 00:00:00 +0000</pubDate>
-      
-      <guid>https://felipevaldez.com/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001.</description>
     </item>
     
     <item>

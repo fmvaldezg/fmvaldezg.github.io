@@ -18,6 +18,9 @@ languages:
         - name: Mapping Projects
           url: projects/
           weight: 2
+        - name: Tutorials
+          url: tutorials/
+          weight: 3
   
   es:
     languageName: "Español"
@@ -81,8 +84,8 @@ params:
           buttons:
             - name: Publications
               url: publications/
-            #- name: Papers
-            #  url: papers/
+            - name: Tutorials
+              url: tutorials/
             - name: Mapping Projects
               url: projects/
             #- name: Data
