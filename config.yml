@@ -21,6 +21,9 @@ languages:
         - name: Tutorials
           url: tutorials/
           weight: 3
+        - name: Tags
+          url: tags/
+          weight: 4
   
   es:
     languageName: "Español"
@@ -45,6 +48,9 @@ languages:
           - name: Tutoriales
             url: tutorials/
             weight: 3
+          - name: Tags
+            url: tags/
+            weight: 4
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -93,8 +99,8 @@ params:
               url: projects/
             #- name: Data
             #  url: data/
-            #- name: Tags
-            #  url: tags/
+            - name: Tags
+              url: tags/
             #- name: Archive
             #  url: archive/
             #- name: Blog
