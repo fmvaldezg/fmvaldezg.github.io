@@ -42,6 +42,9 @@ languages:
           - name: Proyectos de Mapeo
             url: projects/
             weight: 2
+          - name: Tutoriales
+            url: tutorials/
+            weight: 3
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
