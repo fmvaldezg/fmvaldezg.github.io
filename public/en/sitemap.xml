@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://felipevaldez.com/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -15,17 +15,50 @@
                 href="https://felipevaldez.com/"
                 />
   </url><url>
+    <loc>https://felipevaldez.com/es/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://felipevaldez.com/tags/maps/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tags/maps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tags/maps/"
+                />
   </url><url>
     <loc>https://felipevaldez.com/tags/open-data/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tags/open-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tags/open-data/"
+                />
   </url><url>
     <loc>https://felipevaldez.com/tags/osm/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tags/osm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tags/osm/"
+                />
   </url><url>
     <loc>https://felipevaldez.com/tags/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -37,19 +70,52 @@
                 href="https://felipevaldez.com/tags/"
                 />
   </url><url>
-    <loc>https://felipevaldez.com/tutorials/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <loc>https://felipevaldez.com/es/tutorials/tutorial1/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://felipevaldez.com/es/tutorials/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://felipevaldez.com/tags/ultra/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tags/ultra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tags/ultra/"
+                />
+  </url><url>
+    <loc>https://felipevaldez.com/tutorials/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tutorials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tutorials/"
+                />
   </url><url>
     <loc>https://felipevaldez.com/tutorials/tutorial1/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tutorials/tutorial1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tutorials/tutorial1/"
+                />
   </url><url>
     <loc>https://felipevaldez.com/paper1/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://felipevaldez.com/es/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://felipevaldez.com/tags/gis/</loc>

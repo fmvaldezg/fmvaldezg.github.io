@@ -6,7 +6,16 @@
     <description>Recent content in Felipe Valdez, Ph.D. on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial de Ultra (Overpass Ultra)</title>
+      <link>https://felipevaldez.com/es/tutorials/tutorial1/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipevaldez.com/es/tutorials/tutorial1/</guid>
+      <description>Ultra es una aplicación web que te ayuda a crear mapas interactivos personalizados utilizando datos de OpenStreetMap</description>
+    </item>
+    
     <item>
       <title>Ultra (Overpass Ultra) Tutorial</title>
       <link>https://felipevaldez.com/tutorials/tutorial1/</link>
