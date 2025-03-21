@@ -29,6 +29,20 @@ languages:
     languageName: "Español"
     contentDir: "content/es"
     weight: 2 
+    menu:
+      main:
+        - name: Publications
+          url: publications/
+          weight: 1
+        - name: Mapping Projects
+          url: projects/
+          weight: 2
+        - name: Tutorials
+          url: tutorials/
+          weight: 3
+        - name: Tags
+          url: tags/
+          weight: 4
     params:
       profileMode:
         enabled: true
