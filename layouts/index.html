@@ -15,8 +15,8 @@
                         {{ $pageURL = print "/" .Lang "/" }}
                     {{ end }}
                     
-                    <a href="{{ $pageURL }}" style="font-size: 0.7rem; padding: 2px 8px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #777777;">
-                        {{ if eq .Lang "en" }}View in English{{ else }}Ver en Español{{ end }}
+                    <a href="{{ $pageURL }}" style="font-size: 0.7rem; padding: 2px 8px; border: 1px solid #ddd; border-radius: 4px; text-decoration: none; color: #777777; display: inline-flex; align-items: center;">
+                        {{ if eq .Lang "en" }}🇺🇸 View in English{{ else }}🇪🇸 Ver en Español{{ end }}
                     </a>
                 {{ end }}
             {{ end }}
