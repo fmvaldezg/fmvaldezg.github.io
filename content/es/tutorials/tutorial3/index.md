@@ -21,17 +21,25 @@ cover:
 ##### Acceso al tutorial
 
 + [Download PDF](opengeodata.pdf)
-+ [Online tutorial](https://fmvaldezg.codeberg.page/opengeodata_tutorial_sp/opengeodata_tutorial.html)
++ [Online tutorial](https://fmvaldezg.codeberg.page/opengeodata_wkshp_sp/opengeodata.html)
 
 ---
 
 ##### Resumen
 
-Este es un tutorial completo sobre KoboToolbox, una plataforma de código abierto para la recolección, gestión y visualización de datos ampliamente utilizada por organizaciones sin fines de lucro. El tutorial guía a los usuarios a través de todo el flujo de trabajo: crear una cuenta, construir cuestionarios con varios tipos de preguntas, implementar formularios, compartirlos con los encuestados y recopilar datos tanto en línea como fuera de línea utilizando dispositivos móviles. Proporciona instrucciones detalladas paso a paso con capturas de pantalla para cada proceso, incluyendo cómo marcar formularios para uso sin conexión, poner en cola las presentaciones cuando se está fuera de línea y cargarlas cuando se restablece la conectividad a Internet. El tutorial está particularmente enfocado en escenarios de recolección de datos en campo donde el acceso a Internet puede ser limitado, lo que lo hace valioso para investigadores, trabajadores de ayuda humanitaria y otros que necesitan recopilar información en entornos remotos o desafiantes.
+Este tutorial proporciona una guía completa para acceder, explorar y descargar datos geoespaciales abiertos de OpenStreetMap (OSM) y Overture Maps para su uso en Sistemas de Información Geográfica, específicamente QGIS.
+El tutorial recorre los pasos prácticos para:
+
+- Explorar datos en las interfaces web de ambas plataformas
+- Configurar QGIS para ver datos OSM como mosaicos raster
+- Usar el complemento QuickOSM para descargar datos específicos de OSM (como instalaciones de estacionamiento en Filadelfia)
+- Instalar y configurar los complementos requeridos (QduckDB y GeoParquet Downloader) para acceder a los datos de Overture Maps
+- Descargar y abrir datos en diferentes formatos
+- La guía incluye instrucciones detalladas con capturas de pantalla para cada paso, consejos de solución de problemas para diferentes sistemas operativos y explicaciones de conceptos técnicos como el formato GeoParquet.
 
 ---
 
-##### Formmulario y mapa de ejemplo
+##### Mapa de ejemplo
 
 ![](result2.png)
 
