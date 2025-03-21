@@ -44,6 +44,19 @@
                 href="https://felipevaldez.com/tags/field-data/"
                 />
   </url><url>
+    <loc>https://felipevaldez.com/tags/gis/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tags/gis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tags/gis/"
+                />
+  </url><url>
     <loc>https://felipevaldez.com/tags/maps/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -84,6 +97,9 @@
                 />
   </url><url>
     <loc>https://felipevaldez.com/es/tutorials/tutorial2/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://felipevaldez.com/es/tutorials/tutorial3/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://felipevaldez.com/es/tutorials/</loc>
@@ -146,19 +162,6 @@
   </url><url>
     <loc>https://felipevaldez.com/paper1/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://felipevaldez.com/tags/gis/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://felipevaldez.com/es/tags/gis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://felipevaldez.com/tags/gis/"
-                />
   </url><url>
     <loc>https://felipevaldez.com/tags/gwr/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>

@@ -6,7 +6,16 @@
     <description>Recent content in GIS on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial Uso de Datos Geoespaciales Abiertos en SIG</title>
+      <link>https://felipevaldez.com/es/tutorials/tutorial3/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipevaldez.com/es/tutorials/tutorial3/</guid>
+      <description>Este tutorial proporciona una guía completa para acceder, explorar y descargar datos geoespaciales abiertos de OpenStreetMap (OSM) y Overture Maps para su uso en Sistemas de Información Geográfica, específicamente QGIS.</description>
+    </item>
+    
     <item>
       <title>Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial</title>
       <link>https://felipevaldez.com/paper1/</link>

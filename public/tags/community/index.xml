@@ -16,5 +16,14 @@
       <description>Este es un tutorial completo sobre KoboToolbox, una plataforma de código abierto para la recolección, gestión y visualización de datos ampliamente utilizada por organizaciones sin fines de lucro.</description>
     </item>
     
+    <item>
+      <title>Tutorial Uso de Datos Geoespaciales Abiertos en SIG</title>
+      <link>https://felipevaldez.com/es/tutorials/tutorial3/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipevaldez.com/es/tutorials/tutorial3/</guid>
+      <description>Este tutorial proporciona una guía completa para acceder, explorar y descargar datos geoespaciales abiertos de OpenStreetMap (OSM) y Overture Maps para su uso en Sistemas de Información Geográfica, específicamente QGIS.</description>
+    </item>
+    
   </channel>
 </rss>
