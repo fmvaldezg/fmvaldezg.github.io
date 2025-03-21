@@ -6,7 +6,16 @@
     <description>Recent content in Open Data on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/es/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/es/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial de KoboToolbox</title>
+      <link>https://felipevaldez.com/es/tutorials/tutorial2/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipevaldez.com/es/tutorials/tutorial2/</guid>
+      <description>Este es un tutorial completo sobre KoboToolbox, una plataforma de código abierto para la recolección, gestión y visualización de datos ampliamente utilizada por organizaciones sin fines de lucro.</description>
+    </item>
+    
     <item>
       <title>Tutorial de Ultra (Overpass Ultra)</title>
       <link>https://felipevaldez.com/es/tutorials/tutorial1/</link>
