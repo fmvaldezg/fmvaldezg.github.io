@@ -31,13 +31,13 @@ languages:
     weight: 2 
     menu:
       main:
-        - name: Publications
+        - name: Publicaciones
           url: publications/
           weight: 1
-        - name: Mapping Projects
+        - name: Proyectos de Mapeo y SIG
           url: projects/
           weight: 2
-        - name: Tutorials
+        - name: Tutoriales
           url: tutorials/
           weight: 3
         - name: Tags
