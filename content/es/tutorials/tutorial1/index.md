@@ -40,8 +40,8 @@ Ultra es una aplicación web que te ayuda a crear mapas interactivos personaliza
 ##### Atribución
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-  <a property="dct:title" rel="cc:attributionURL" href="https://felipevaldez.com/ultra_tutorial/ultra_tutorial.html">Open Geospatial Data</a> by 
-  <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://felipevaldez.com/">Felipe Valdez</a> is licensed under 
+  <a property="dct:title" rel="cc:attributionURL" href="https://felipevaldez.com/ultra_tutorial/ultra_tutorial.html">Overpass Ultra</a> por
+  <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://felipevaldez.com/">Felipe Valdez</a> tiene una licencia 
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-flex; align-items:center;">
     CC BY-NC-SA 4.0
     <img style="height:22px; margin-left:3px;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="">
