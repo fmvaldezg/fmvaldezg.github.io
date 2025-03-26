@@ -95,6 +95,16 @@
   </url><url>
     <loc>https://felipevaldez.com/es/tutorials/tutorial2/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tutorials/tutorial2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tutorials/tutorial2/"
+                />
   </url><url>
     <loc>https://felipevaldez.com/es/tutorials/tutorial3/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>

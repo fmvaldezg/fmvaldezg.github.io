@@ -57,6 +57,19 @@
                 href="https://felipevaldez.com/tags/gis/"
                 />
   </url><url>
+    <loc>https://felipevaldez.com/tutorials/tutorial2/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tutorials/tutorial2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tutorials/tutorial2/"
+                />
+  </url><url>
     <loc>https://felipevaldez.com/tags/maps/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -105,6 +118,19 @@
     <loc>https://felipevaldez.com/es/tutorials/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://felipevaldez.com/tutorials/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tutorials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tutorials/"
+                />
+  </url><url>
     <loc>https://felipevaldez.com/tags/osm/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -132,19 +158,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://felipevaldez.com/tags/ultra/"
-                />
-  </url><url>
-    <loc>https://felipevaldez.com/tutorials/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://felipevaldez.com/es/tutorials/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://felipevaldez.com/tutorials/"
                 />
   </url><url>
     <loc>https://felipevaldez.com/tutorials/tutorial1/</loc>
