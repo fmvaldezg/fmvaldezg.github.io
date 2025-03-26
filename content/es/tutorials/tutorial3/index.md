@@ -20,8 +20,8 @@ cover:
 
 ##### Acceso al tutorial
 
-+ [Download PDF](opengeodata.pdf)
-+ [Online tutorial](https://fmvaldezg.codeberg.page/opengeodata_wkshp_sp/opengeodata.html)
++ [Descragra PDF](opengeodata.pdf)
++ [Tutorial en linea](https://fmvaldezg.codeberg.page/opengeodata_wkshp_sp/opengeodata.html)
 
 ---
 

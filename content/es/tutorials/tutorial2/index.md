@@ -20,8 +20,8 @@ cover:
 
 ##### Acceso al tutorial
 
-+ [Download PDF](kobotoolbox_tutorial.pdf)
-+ [Online tutorial](https://fmvaldezg.codeberg.page/kobotoolbox_tutorial_sp/kobotoolbox_tutorial.html)
++ [Descargar PDF](kobotoolbox_tutorial.pdf)
++ [Tutorial en linea](https://fmvaldezg.codeberg.page/kobotoolbox_tutorial_sp/kobotoolbox_tutorial.html)
 
 ---
 

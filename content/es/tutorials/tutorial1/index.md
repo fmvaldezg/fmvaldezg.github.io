@@ -20,8 +20,8 @@ cover:
 
 ##### Acceso al tutorial
 
-+ [Download PDF](ultra_tutorial.pdf)
-+ [Online tutorial](https://fmvaldezg.codeberg.page/ultra_tutorial_sp/ultra_tutorial.html)
++ [Descargar PDF](ultra_tutorial.pdf)
++ [Tutorial en linea](https://fmvaldezg.codeberg.page/ultra_tutorial_sp/ultra_tutorial.html)
 
 ---
 
