@@ -35,7 +35,7 @@ The "Storytelling with MapLibre" tutorial teaches participants how to create int
 
 ![](result4.png)
 
-![](Untitled.gif)
+![The Evolution of Fletcher Street's Horse Stables A Legacy of Philadelphia's Black Riders: Past and Present](Untitled.gif)(https://fletcherststorymap.com/)
 Storymap by Courtney Berne and Felipe Valdez
 
 ---
