@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://felipevaldez.com/tags/census/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://felipevaldez.com/</loc>
     <lastmod>2025-03-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -27,6 +30,9 @@
                 hreflang="en"
                 href="https://felipevaldez.com/tags/gis/"
                 />
+  </url><url>
+    <loc>https://felipevaldez.com/tutorials/tutorial5/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://felipevaldez.com/tags/maps/</loc>
     <lastmod>2025-03-26T00:00:00+00:00</lastmod>
