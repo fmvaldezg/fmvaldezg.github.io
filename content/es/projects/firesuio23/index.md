@@ -44,7 +44,7 @@ El mapa tiene una animación predeterminada que avanza a través de las fechas y
 El indicador de línea de tiempo puede ser arrastrado y movido a un momento específico.
 
 Los tres botones permiten filtrar por eventos "todos", o solo aquellos que ocurrieron durante el "día" o la "noche".
-Haga clic aquí para ver el mapa en pantalla completa.
+Haga clic [aquí](https://felipevaldez.com/Quito_Fires2023/) para ver el mapa en pantalla completa.
 
 
 ---
