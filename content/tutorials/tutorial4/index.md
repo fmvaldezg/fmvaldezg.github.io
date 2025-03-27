@@ -33,10 +33,15 @@ The "Storytelling with MapLibre" tutorial teaches participants how to create int
 
 ##### Sample map
 
-![](result4.png)
+**Temple University Campuses**
 
-![The Evolution of Fletcher Street's Horse Stables A Legacy of Philadelphia's Black Riders: Past and Present](Untitled.gif)(https://fletcherststorymap.com/)
-Storymap by Courtney Berne and Felipe Valdez
+![](result4.png)
+[Demo Storymap](https://felipevaldez.com/maplibre-storymap_demoTU/)
+
+**The Evolution of Fletcher Street's Horse Stables A Legacy of Philadelphia's Black Riders: Past and Present**
+
+![](Untitled.gif)
+[fletcherststorymap.com by Courtney Berne and Felipe Valdez](https://fletcherststorymap.com/)
 
 ---
 
