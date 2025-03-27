@@ -34,5 +34,14 @@
       <description>Este tutorial proporciona una guía completa para acceder, explorar y descargar datos geoespaciales abiertos de OpenStreetMap (OSM) y Overture Maps para su uso en Sistemas de Información Geográfica, específicamente QGIS.</description>
     </item>
     
+    <item>
+      <title>Using Open Geospatial Data in GIS</title>
+      <link>https://felipevaldez.com/tutorials/tutorial3/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipevaldez.com/tutorials/tutorial3/</guid>
+      <description>This tutorial provides a comprehensive guide to accessing, exploring, and downloading open geospatial data from OpenStreetMap (OSM) and Overture Maps for use in Geographic Information Systems, specifically QGIS.</description>
+    </item>
+    
   </channel>
 </rss>

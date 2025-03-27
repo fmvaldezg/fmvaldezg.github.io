@@ -25,17 +25,18 @@ cover:
 
 ---
 
-##### Abstrsact
+##### Abstract
 
-Este tutorial proporciona una guía completa para acceder, explorar y descargar datos geoespaciales abiertos de OpenStreetMap (OSM) y Overture Maps para su uso en Sistemas de Información Geográfica, específicamente QGIS.
-El tutorial recorre los pasos prácticos para:
+This tutorial provides a comprehensive guide to accessing, exploring, and downloading open geospatial data from OpenStreetMap (OSM) and Overture Maps for use in Geographic Information Systems, specifically QGIS.
+The tutorial walks through practical steps for:
 
-- Explorar datos en las interfaces web de ambas plataformas
-- Configurar QGIS para ver datos OSM como mosaicos raster
-- Usar el complemento QuickOSM para descargar datos específicos de OSM (como instalaciones de estacionamiento en Filadelfia)
-- Instalar y configurar los complementos requeridos (QduckDB y GeoParquet Downloader) para acceder a los datos de Overture Maps
-- Descargar y abrir datos en diferentes formatos
-- La guía incluye instrucciones detalladas con capturas de pantalla para cada paso, consejos de solución de problemas para diferentes sistemas operativos y explicaciones de conceptos técnicos como el formato GeoParquet.
+- Exploring data in both platforms' web interfaces
+- Setting up QGIS to view OSM data as raster tiles
+- Using the QuickOSM plugin to download specific OSM data (like parking facilities in Philadelphia)
+- Installing and configuring required plugins (QduckDB and GeoParquet Downloader) to access Overture Maps data
+- Downloading and opening data in different formats
+
+The guide includes detailed instructions with screenshots for each step, troubleshooting tips for different operating systems, and explanations of technical concepts like GeoParquet format.
 
 ---
 
