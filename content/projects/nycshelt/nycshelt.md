@@ -27,5 +27,5 @@ The map was built using [Mapbox GL JS](https://www.mapbox.com/) and data from [N
 
 <iframe
   src="https://felipevaldez.com/NYC-Shelters/"
-  style="width:100%; height:650px;" target=_blank
+  style="width:100%; height:650px;"
 ></iframe>
