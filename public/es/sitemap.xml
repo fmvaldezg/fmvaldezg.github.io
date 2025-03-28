@@ -171,6 +171,71 @@
                 href="https://felipevaldez.com/es/tags/ultra/"
                 />
   </url><url>
+    <loc>https://felipevaldez.com/es/tags/3d/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tags/3d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tags/3d/"
+                />
+  </url><url>
+    <loc>https://felipevaldez.com/es/tags/mapping/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tags/mapping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tags/mapping/"
+                />
+  </url><url>
+    <loc>https://felipevaldez.com/es/projects/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/projects/"
+                />
+  </url><url>
+    <loc>https://felipevaldez.com/es/projects/uiometro/uiometro/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/projects/uiometro/uiometro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/projects/uiometro/uiometro/"
+                />
+  </url><url>
+    <loc>https://felipevaldez.com/es/tags/webmap/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tags/webmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tags/webmap/"
+                />
+  </url><url>
     <loc>https://felipevaldez.com/paper1/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -275,32 +340,6 @@
                 href="https://felipevaldez.com/es/location/"
                 />
   </url><url>
-    <loc>https://felipevaldez.com/es/tags/mapping/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://felipevaldez.com/tags/mapping/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://felipevaldez.com/es/tags/mapping/"
-                />
-  </url><url>
-    <loc>https://felipevaldez.com/es/projects/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://felipevaldez.com/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://felipevaldez.com/es/projects/"
-                />
-  </url><url>
     <loc>https://felipevaldez.com/es/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -312,19 +351,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://felipevaldez.com/es/officehours/"
-                />
-  </url><url>
-    <loc>https://felipevaldez.com/es/tags/webmap/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://felipevaldez.com/tags/webmap/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://felipevaldez.com/es/tags/webmap/"
                 />
   </url><url>
     <loc>https://felipevaldez.com/es/tags/animated/</loc>
@@ -366,45 +392,6 @@
                 href="https://felipevaldez.com/es/projects/tubike/"
                 />
   </url><url>
-    <loc>https://felipevaldez.com/es/projects/uiometro/uiometro/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://felipevaldez.com/projects/uiometro/uiometro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://felipevaldez.com/es/projects/uiometro/uiometro/"
-                />
-  </url><url>
-    <loc>https://felipevaldez.com/es/tags/quito/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://felipevaldez.com/tags/quito/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://felipevaldez.com/es/tags/quito/"
-                />
-  </url><url>
-    <loc>https://felipevaldez.com/es/tags/transportation/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://felipevaldez.com/tags/transportation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://felipevaldez.com/es/tags/transportation/"
-                />
-  </url><url>
     <loc>https://felipevaldez.com/es/tags/fire/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -429,6 +416,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://felipevaldez.com/es/projects/firesuio23/"
+                />
+  </url><url>
+    <loc>https://felipevaldez.com/es/tags/quito/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felipevaldez.com/tags/quito/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://felipevaldez.com/es/tags/quito/"
                 />
   </url><url>
     <loc>https://felipevaldez.com/paper2/</loc>

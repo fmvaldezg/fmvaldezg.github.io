@@ -6,7 +6,16 @@
     <description>Recent content in Webmap on Felipe Valdez Gómez de la Torre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/tags/webmap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/tags/webmap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shelters in NYC</title>
+      <link>https://felipevaldez.com/es/projects/uiometro/uiometro/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipevaldez.com/es/projects/uiometro/uiometro/</guid>
+      <description>A map showing the number of shelters by community district in New York City in a 3D scene</description>
+    </item>
+    
     <item>
       <title>Homicidios en Ecuador - Año 2024</title>
       <link>https://felipevaldez.com/es/projects/homec24/</link>
@@ -45,10 +54,10 @@
     
     <item>
       <title>Metro de Quito</title>
-      <link>https://felipevaldez.com/es/projects/uiometro/uiometro/</link>
+      <link>https://felipevaldez.com/projects/nycshelt/nycshelt/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://felipevaldez.com/es/projects/uiometro/uiometro/</guid>
+      <guid>https://felipevaldez.com/projects/nycshelt/nycshelt/</guid>
       <description>A map showing service areas from each Metro Station</description>
     </item>
     
