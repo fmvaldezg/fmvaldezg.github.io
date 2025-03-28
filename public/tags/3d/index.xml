@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://felipevaldez.com/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shelters in NYC</title>
-      <link>https://felipevaldez.com/es/projects/uiometro/uiometro/</link>
+      <link>https://felipevaldez.com/projects/nycshelt/nycshelt/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://felipevaldez.com/es/projects/uiometro/uiometro/</guid>
+      <guid>https://felipevaldez.com/projects/nycshelt/nycshelt/</guid>
       <description>A map showing the number of shelters by community district in New York City in a 3D scene</description>
     </item>
     

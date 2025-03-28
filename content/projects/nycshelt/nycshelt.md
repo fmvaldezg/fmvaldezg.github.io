@@ -1,62 +1,31 @@
 ---
-title: "Metro de Quito" 
-date: 2023-12-31
-lastmod: 2023-12-31
-tags: ["GIS","mapping","webmap","Ecuador", "Quito", "transportation"]
+title: "Shelters in NYC" 
+date: 2024-12-31
+lastmod: 2024-12-31
+tags: ["GIS","mapping","webmap", "3d"]
 author: ["Felipe Valdez"]
-description: "A map showing service areas from each Metro Station" 
-summary: "This map shows service areas from each Metro Station walking, biking and driving for times of 5 minutes, 10 minutes 15 minutes and 20 minutes." 
+description: "A map showing the number of shelters by community district in New York City in a 3D scene" 
+summary: "This map was created with Alex Strada, Public Artist in Residence with the New York City Department of Homeless Services and the Department of Cultural Affairs.<br><br>The map goal is to depict the relation between the number of shelters and the skyline height in the city as a way to draw attention into their spatial distribution." 
 cover:
-    image: "/projects/uiometro/uiometro.png"
-    alt: "Map of Metro de Quito"
+    image: "/projects/nycshelt/nycshelt.png"
+    alt: "Map of NYC"
     relative: false
-editPost:
-    URL: "https://github.com/fmvaldezg/ISOmetroUIO"
-    Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
-## Introduction
-
-In December 2023, the first metro line in Quito began operations. Covering a 22-kilometer route, this is the city's first underground public transportation system. [Learn more](https://metrodequito.gob.ec/)
-
-This map shows the service areas from each of the 15 stations for walking, cycling, and driving. Four travel time intervals are used: 5, 10, 15, and 20 minutes from each station.
-
----
-
 ## The Map
 
+![](nycmap.gif)
+
+The map was built using [Mapbox GL JS](https://www.mapbox.com/) and data from [NYC Open Data](https://opendata.cityofnewyork.us/)
+
+---
+
+## Explore it yourself
+
 <iframe
-  src="https://fmvaldezg.github.io/ISOmetroUIO/"
-  style="width:100%; height:650px;"
+  src="https://felipevaldez.com/NYC-Shelters/"
+  style="width:100%; height:650px;" target=_blank
 ></iframe>
-
-The map was build using Mapbox GL JS libraries and Mapbox Assembly for styling.
-
-The map shows the location of 15 stations of the Quito's subway. The user can select from three types of travelling: walking, biking and driving. Then a time threshold from 5 to 20 minutes can be selected. To visualize the resulting service area, one of the stations has to be selected fromt he dropdown menu. 
-
-In the map, a red polygon will show the resulting service are for the type of travel and the time threshold selected.
-
-This tool helps identify gaps in the distribution of subway stations. Next steps include reporting the total number of poulation covered by the resulting service area.
-
-
-Click [here](https://fmvaldezg.github.io/ISOmetroUIO/) to see the map in full screen.
-
-
----
-
-## The process
-
-The service area isochrones are generated using the [Mapbox Isochrone API](https://docs.mapbox.com/api/navigation/isochrone/). 
-
-The first two section of buttons set the parameters that populate the api call `profile` and `contours_minutes`.
-The `coordinates` parameter of the call is retrieved from a geojson file that stores the station locations, after the user selects one from the dropdown menu. Stations in the dropdown menu are listed from north to south. 
-
-This is the first project using Mapbox GL JS Standard Style and the `slot: 'middle'` property to place the polygons below the buildings and above streets. 
-
----
-
-## Some insights
-
