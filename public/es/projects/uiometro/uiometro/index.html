@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Shelters in NYC | Felipe Valdez Gómez de la Torre</title>
-<meta name="keywords" content="GIS, mapping, webmap, 3d">
-<meta name="description" content="A map showing the number of shelters by community district in New York City in a 3D scene">
+<title>Metro de Quito | Felipe Valdez Gómez de la Torre</title>
+<meta name="keywords" content="GIS, mapping, webmap, Ecuador, Quito, transportation">
+<meta name="description" content="Este mapa muestra las estaciones del Metro de Quito y sus áreas de influencia">
 <meta name="author" content="Felipe Valdez">
 <link rel="canonical" href="https://felipevaldez.com/es/projects/uiometro/uiometro/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.2fef4cdd9bb70a1f45433465bda717785a419a6efcaca50b5de0ef71cfbffb2c.css" integrity="sha256-L&#43;9M3Zu3Ch9FQzRlvacXeFpBmm78rKULXeDvcc&#43;/&#43;yw=" rel="preload stylesheet" as="style">
@@ -28,18 +28,18 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="Shelters in NYC" />
-<meta property="og:description" content="A map showing the number of shelters by community district in New York City in a 3D scene" />
+</noscript><meta property="og:title" content="Metro de Quito" />
+<meta property="og:description" content="Este mapa muestra las estaciones del Metro de Quito y sus áreas de influencia" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://felipevaldez.com/es/projects/uiometro/uiometro/" />
-<meta property="og:image" content="https://felipevaldez.com/projects/nycshelt/nycshelt.png" /><meta property="article:section" content="projects" />
-<meta property="article:published_time" content="2024-12-31T00:00:00+00:00" />
-<meta property="article:modified_time" content="2024-12-31T00:00:00+00:00" />
+<meta property="og:image" content="https://felipevaldez.com/projects/uiometro/uiometro.png" /><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2023-12-31T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-12-31T00:00:00+00:00" />
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://felipevaldez.com/projects/nycshelt/nycshelt.png" />
-<meta name="twitter:title" content="Shelters in NYC"/>
-<meta name="twitter:description" content="A map showing the number of shelters by community district in New York City in a 3D scene"/>
+<meta name="twitter:image" content="https://felipevaldez.com/projects/uiometro/uiometro.png" />
+<meta name="twitter:title" content="Metro de Quito"/>
+<meta name="twitter:description" content="Este mapa muestra las estaciones del Metro de Quito y sus áreas de influencia"/>
 
 
 <script type="application/ld+json">
@@ -56,7 +56,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Shelters in NYC",
+      "name": "Metro de Quito",
       "item": "https://felipevaldez.com/es/projects/uiometro/uiometro/"
     }
   ]
@@ -66,17 +66,17 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Shelters in NYC",
-  "name": "Shelters in NYC",
-  "description": "A map showing the number of shelters by community district in New York City in a 3D scene",
+  "headline": "Metro de Quito",
+  "name": "Metro de Quito",
+  "description": "Este mapa muestra las estaciones del Metro de Quito y sus áreas de influencia",
   "keywords": [
-    "GIS", "mapping", "webmap", "3d"
+    "GIS", "mapping", "webmap", "Ecuador", "Quito", "transportation"
   ],
-  "articleBody": "The Map The map was built using Mapbox GL JS and data from NYC Open Data Explore it yourself ",
-  "wordCount" : "19",
+  "articleBody": "Introducción En diciembre de 2023, la primera línea del metro de Quito comenzó a operar. Cubriendo una ruta de 22 kilómetros, este es el primer sistema de transporte público subterráneo de la ciudad. Más información Este mapa muestra las áreas de servicio desde cada una de las 15 estaciones para caminar, andar en bicicleta y conducir. Se utilizan cuatro intervalos de tiempo de viaje: 5, 10, 15 y 20 minutos desde cada estación.\nEl mapa El mapa fue construido utilizando las bibliotecas de Mapbox GL JS y Mapbox Assembly para el estilo.\nEl mapa muestra la ubicación de las 15 estaciones del metro de Quito. El usuario puede seleccionar entre tres tipos de desplazamiento: a pie, en bicicleta y en automóvil. Luego se puede seleccionar un umbral de tiempo de 5 a 20 minutos. Para visualizar el área de servicio resultante, se debe seleccionar una de las estaciones desde el menú desplegable.\nEn el mapa, un polígono rojo mostrará el área de servicio resultante para el tipo de desplazamiento y el umbral de tiempo seleccionado.\nEsta herramienta ayuda a identificar brechas en la distribución de las estaciones de metro. Los próximos pasos incluyen informar sobre el número total de población cubierta por el área de servicio resultante.\nHaga clic aquí para ver el mapa en pantalla completa.\nEl proceso Las isócronas del área de servicio se generan utilizando la API de Isócronas de Mapbox .\nLas dos primeras secciones de botones establecen los parámetros que alimentan los valores profile y contours_minutes de la API. El parámetro coordinates de la llamada se obtiene de un archivo geojson que almacena las ubicaciones de las estaciones, después de que el usuario selecciona una desde el menú desplegable. Las estaciones en el menú desplegable están listadas de norte a sur.\nEste es el primer proyecto que utiliza el Estilo Estándar de Mapbox GL JS y la propiedad slot: 'middle' para colocar los polígonos debajo de los edificios y encima de las calles.\n",
+  "wordCount" : "328",
   "inLanguage": "es",
-  "image":"https://felipevaldez.com/projects/nycshelt/nycshelt.png","datePublished": "2024-12-31T00:00:00Z",
-  "dateModified": "2024-12-31T00:00:00Z",
+  "image":"https://felipevaldez.com/projects/uiometro/uiometro.png","datePublished": "2023-12-31T00:00:00Z",
+  "dateModified": "2023-12-31T00:00:00Z",
   "author":[{
     "@type": "Person",
     "name": "Felipe Valdez"
@@ -184,25 +184,27 @@
   <header class="post-header">
     
     <h1 class="post-title">
-      Shelters in NYC
+      Metro de Quito
     </h1>
     <footer class="post-footer">
       <ul class="post-tags">
         <li><a href="https://felipevaldez.com/es/tags/gis/">GIS</a></li>
         <li><a href="https://felipevaldez.com/es/tags/mapping/">Mapping</a></li>
         <li><a href="https://felipevaldez.com/es/tags/webmap/">Webmap</a></li>
-        <li><a href="https://felipevaldez.com/es/tags/3d/">3d</a></li>
+        <li><a href="https://felipevaldez.com/es/tags/ecuador/">Ecuador</a></li>
+        <li><a href="https://felipevaldez.com/es/tags/quito/">Quito</a></li>
+        <li><a href="https://felipevaldez.com/es/tags/transportation/">Transportation</a></li>
       </ul>
     </footer>
     <div class="post-description">
-      A map showing the number of shelters by community district in New York City in a 3D scene
+      Este mapa muestra las estaciones del Metro de Quito y sus áreas de influencia
     </div>
-    <div class="post-meta"><span title='2024-12-31 00:00:00 +0000 UTC'>diciembre 2024</span>&nbsp;&middot;&nbsp;Felipe Valdez&nbsp;|&nbsp;Traducciones:
+    <div class="post-meta"><span title='2023-12-31 00:00:00 +0000 UTC'>diciembre 2023</span>&nbsp;&middot;&nbsp;Felipe Valdez&nbsp;|&nbsp;Traducciones:
 <ul class="i18n_list">
     <li>
         <a href="https://felipevaldez.com/projects/uiometro/uiometro/">English</a>
     </li>
-</ul>
+</ul>&nbsp;&middot;&nbsp;<a href="https://github.com/fmvaldezg/ISOmetroUIO" rel="noopener noreferrer" target="_blank">GitHub repository</a>
 
 </div>
   </header> <div class="toc">
@@ -213,26 +215,40 @@
 
         <div class="inner"><nav id="TableOfContents">
   <ul>
-    <li><a href="#the-map">The Map</a></li>
-    <li><a href="#explore-it-yourself">Explore it yourself</a></li>
+    <li><a href="#introducción">Introducción</a></li>
+    <li><a href="#el-mapa">El mapa</a></li>
+    <li><a href="#el-proceso">El proceso</a></li>
   </ul>
 </nav>
         </div>
     </details>
 </div>
 
-  <div class="post-content"><h2 id="the-map">The Map<a hidden class="anchor" aria-hidden="true" href="#the-map">#</a></h2>
-<p><img loading="lazy" src="nycmap.gif" alt=""  />
+  <div class="post-content"><h2 id="introducción">Introducción<a hidden class="anchor" aria-hidden="true" href="#introducción">#</a></h2>
+<p>En diciembre de 2023, la primera línea del metro de Quito comenzó a operar. Cubriendo una ruta de 22 kilómetros, este es el primer sistema de transporte público subterráneo de la ciudad. <a href="https://metrodequito.gob.ec/" target="_blank">Más información</a>
 </p>
-<p>The map was built using <a href="https://www.mapbox.com/" target="_blank">Mapbox GL JS</a>
- and data from <a href="https://opendata.cityofnewyork.us/" target="_blank">NYC Open Data</a>
-</p>
+<p>Este mapa muestra las áreas de servicio desde cada una de las 15 estaciones para caminar, andar en bicicleta y conducir. Se utilizan cuatro intervalos de tiempo de viaje: 5, 10, 15 y 20 minutos desde cada estación.</p>
 <hr>
-<h2 id="explore-it-yourself">Explore it yourself<a hidden class="anchor" aria-hidden="true" href="#explore-it-yourself">#</a></h2>
+<h2 id="el-mapa">El mapa<a hidden class="anchor" aria-hidden="true" href="#el-mapa">#</a></h2>
 <iframe
-  src="https://felipevaldez.com/NYC-Shelters/"
-  style="width:100%; height:650px;" target=_blank
+  src="https://fmvaldezg.github.io/ISOmetroUIO/"
+  style="width:100%; height:650px;"
 ></iframe>
+<p>El mapa fue construido utilizando las bibliotecas de Mapbox GL JS y Mapbox Assembly para el estilo.</p>
+<p>El mapa muestra la ubicación de las 15 estaciones del metro de Quito. El usuario puede seleccionar entre tres tipos de desplazamiento: a pie, en bicicleta y en automóvil. Luego se puede seleccionar un umbral de tiempo de 5 a 20 minutos. Para visualizar el área de servicio resultante, se debe seleccionar una de las estaciones desde el menú desplegable.</p>
+<p>En el mapa, un polígono rojo mostrará el área de servicio resultante para el tipo de desplazamiento y el umbral de tiempo seleccionado.</p>
+<p>Esta herramienta ayuda a identificar brechas en la distribución de las estaciones de metro. Los próximos pasos incluyen informar sobre el número total de población cubierta por el área de servicio resultante.</p>
+<p>Haga clic <a href="https://fmvaldezg.github.io/ISOmetroUIO/" target="_blank">aquí</a>
+ para ver el mapa en pantalla completa.</p>
+<hr>
+<h2 id="el-proceso">El proceso<a hidden class="anchor" aria-hidden="true" href="#el-proceso">#</a></h2>
+<p>Las isócronas del área de servicio se generan utilizando la <a href="https://docs.mapbox.com/api/navigation/isochrone/" target="_blank">API de Isócronas de Mapbox</a>
+.</p>
+<p>Las dos primeras secciones de botones establecen los parámetros que alimentan los valores <code>profile</code> y <code>contours_minutes</code> de la API.
+El parámetro <code>coordinates</code> de la llamada se obtiene de un archivo geojson que almacena las ubicaciones de las estaciones, después de que el usuario selecciona una desde el menú desplegable. Las estaciones en el menú desplegable están listadas de norte a sur.</p>
+<p>Este es el primer proyecto que utiliza el Estilo Estándar de Mapbox GL JS y la propiedad <code>slot: 'middle'</code> para colocar los polígonos debajo de los edificios y encima de las calles.</p>
+<hr>
+
 
   </div>
 
@@ -241,7 +257,9 @@
       <li><a href="https://felipevaldez.com/es/tags/gis/">GIS</a></li>
       <li><a href="https://felipevaldez.com/es/tags/mapping/">Mapping</a></li>
       <li><a href="https://felipevaldez.com/es/tags/webmap/">Webmap</a></li>
-      <li><a href="https://felipevaldez.com/es/tags/3d/">3d</a></li>
+      <li><a href="https://felipevaldez.com/es/tags/ecuador/">Ecuador</a></li>
+      <li><a href="https://felipevaldez.com/es/tags/quito/">Quito</a></li>
+      <li><a href="https://felipevaldez.com/es/tags/transportation/">Transportation</a></li>
     </ul>
   </footer>
 </article>

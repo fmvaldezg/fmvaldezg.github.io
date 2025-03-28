@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Shelters in NYC</title>
-      <link>https://felipevaldez.com/es/projects/uiometro/uiometro/</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://felipevaldez.com/es/projects/uiometro/uiometro/</guid>
-      <description>A map showing the number of shelters by community district in New York City in a 3D scene</description>
-    </item>
-    
-    <item>
       <title>Determinantes de Precios de Vivienda en Ecuador: Un Análisis Hedónico Espacial</title>
       <link>https://felipevaldez.com/paper1/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
@@ -41,6 +32,15 @@
       
       <guid>https://felipevaldez.com/es/projects/homec24/</guid>
       <description>Un mapa que muestra la ubicación de homicidios en Ecuador desde enero hasta abril de 2024</description>
+    </item>
+    
+    <item>
+      <title>Metro de Quito</title>
+      <link>https://felipevaldez.com/es/projects/uiometro/uiometro/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipevaldez.com/es/projects/uiometro/uiometro/</guid>
+      <description>Este mapa muestra las estaciones del Metro de Quito y sus áreas de influencia</description>
     </item>
     
     <item>
