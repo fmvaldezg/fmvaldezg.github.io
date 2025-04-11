@@ -69,7 +69,7 @@ languages:
           - name: Email
             url: mailto:felipemiguelvaldez@gmail.com
           - name: CV
-            url: cv_es.pdf
+            url: cv-es.pdf
           - name: Google Scholar
             url: https://scholar.google.com/citations?user=VC2gTN0AAAAJ&hl=en
           - name: ORCID
