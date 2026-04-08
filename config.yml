@@ -21,6 +21,9 @@ languages:
         - name: Tutorials
           url: tutorials/
           weight: 3
+        - name: Blog
+          url: https://blog.felipevaldez.com
+          weight: 4
         - name: Tags
           url: tags/
           weight: 4
@@ -40,9 +43,12 @@ languages:
         - name: Tutoriales
           url: tutorials/
           weight: 3
+        - name: Blog
+          url: https://blog.felipevaldez.com/es/
+          weight: 4
         - name: Tags
           url: tags/
-          weight: 4
+          weight: 5
     params:
       profileMode:
         enabled: true
@@ -62,9 +68,12 @@ languages:
           - name: Tutoriales
             url: tutorials/
             weight: 3
+          - name: Blog
+            url: https://blog.felipevaldez.com/es/
+            weight: 4
           - name: Tags
             url: tags/
-            weight: 4
+            weight: 5
       socialIcons:
           - name: Email
             url: mailto:felipemiguelvaldez@gmail.com
@@ -132,8 +141,8 @@ params:
               url: tags/
             #- name: Archive
             #  url: archive/
-            #- name: Blog
-            #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Blog
+              url: https://blog.felipevaldez.com
 
     socialIcons:
         - name: Email
