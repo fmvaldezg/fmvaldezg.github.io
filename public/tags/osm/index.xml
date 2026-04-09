@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OSM on Felipe Valdez Gómez de la Torre</title>
+    <link>http://localhost:1313/tags/osm/</link>
+    <description>Recent content in OSM on Felipe Valdez Gómez de la Torre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/osm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial de Ultra (Overpass Ultra)</title>
+      <link>http://localhost:1313/es/tutorials/tutorial1/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <author>Felipe Valdez Gómez de la Torre</author>
+      <guid>http://localhost:1313/es/tutorials/tutorial1/</guid>
+      <description>Ultra es una aplicación web que te ayuda a crear mapas interactivos personalizados utilizando datos de OpenStreetMap</description>
+    </item>
+    
+    <item>
+      <title>Ultra (Overpass Ultra) Tutorial</title>
+      <link>http://localhost:1313/tutorials/tutorial1/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <author>Felipe Valdez Gómez de la Torre</author>
+      <guid>http://localhost:1313/tutorials/tutorial1/</guid>
+      <description>Ultra is a web application that helps you create custom interactive maps using OpenStreetMap data.</description>
+    </item>
+    
+  </channel>
+</rss>

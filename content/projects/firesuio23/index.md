@@ -1,6 +1,6 @@
 ---
 title: "Fires in Quito - August 2023" 
-date: 2023-09-31
+date: 2023-09-30
 lastmod: 2023-10-08
 tags: ["GIS","mapping","webmap","Ecuador", "Quito", "fire"]
 author: ["Felipe Valdez"]

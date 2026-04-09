@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="es" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Narrativa con Mapas - Usando Maplibre | Felipe Valdez Gómez de la Torre</title>
+<meta name="keywords" content="datos abiertos, mapas, narrativa, SIG">
+<meta name="description" content="El tutorial &#39;Narrativa con MapLibre&#39; enseña a los participantes cómo crear historias interactivas basadas en mapas sin necesidad de experiencia en programación.">
+<meta name="author" content="Felipe Valdez">
+<link rel="canonical" href="http://localhost:1313/es/tutorials/tutorial4/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.89cf2f47e930383c7f785935dfe6f608a45d9c912c0684a783535f8f0e52549b.css" integrity="sha256-ic8vR&#43;kwODx/eFk13&#43;b2CKRdnJEsBoSng1Nfjw5SVJs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/tutorials/tutorial4/">
+<link rel="alternate" hreflang="es" href="http://localhost:1313/es/tutorials/tutorial4/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Narrativa con Mapas - Usando Maplibre" />
+<meta property="og:description" content="El tutorial &#39;Narrativa con MapLibre&#39; enseña a los participantes cómo crear historias interactivas basadas en mapas sin necesidad de experiencia en programación." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/es/tutorials/tutorial4/" />
+<meta property="og:image" content="http://localhost:1313/tutorial4.png" /><meta property="article:section" content="tutorials" />
+<meta property="article:published_time" content="2025-03-26T00:00:00+00:00" />
+<meta property="article:modified_time" content="2025-03-26T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/tutorial4.png" />
+<meta name="twitter:title" content="Narrativa con Mapas - Usando Maplibre"/>
+<meta name="twitter:description" content="El tutorial &#39;Narrativa con MapLibre&#39; enseña a los participantes cómo crear historias interactivas basadas en mapas sin necesidad de experiencia en programación."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Tutoriales",
+      "item": "http://localhost:1313/es/tutorials/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Narrativa con Mapas - Usando Maplibre",
+      "item": "http://localhost:1313/es/tutorials/tutorial4/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Narrativa con Mapas - Usando Maplibre",
+  "name": "Narrativa con Mapas - Usando Maplibre",
+  "description": "El tutorial 'Narrativa con MapLibre' enseña a los participantes cómo crear historias interactivas basadas en mapas sin necesidad de experiencia en programación.",
+  "keywords": [
+    "datos abiertos", "mapas", "narrativa", "SIG"
+  ],
+  "articleBody": " Acceder al tutorial Tutorial en línea Ejemplo en línea Resumen El tutorial “Narrativa con MapLibre” enseña a los participantes cómo crear historias interactivas basadas en mapas sin necesidad de experiencia en programación. El taller demuestra cómo los mapas pueden enriquecer la narrativa al proporcionar contexto visual y permitir la participación del público. Aprenderás duplicando y personalizando una plantilla prediseñada de Digital Democracy en tu propia cuenta de GitHub, usando MapLibre GL JS (una biblioteca de mapas de código abierto). Este enfoque práctico permite que cualquier persona cree narrativas geográficas atractivas que combinan mapas con elementos multimedia, los cuales pueden compartirse en la web para que otros los exploren.\nMapa de ejemplo Sedes de Temple University\nDemo Storymap La evolución de los establos de caballos de Fletcher Street: Un legado de los jinetes negros de Filadelfia: pasado y presente\nfletcherststorymap.com por Courtney Berne y Felipe Valdez Atribución Narrativa con Mapas - Usando Maplibre por Felipe Valdez está licenciado bajo CC BY-NC-SA 4.0 Material relacionado Documentación de Maplibre Plantilla de Digital Democracy ",
+  "wordCount" : "170",
+  "inLanguage": "es",
+  "image":"http://localhost:1313/tutorial4.png","datePublished": "2025-03-26T00:00:00Z",
+  "dateModified": "2025-03-26T00:00:00Z",
+  "author":[{
+    "@type": "Person",
+    "name": "Felipe Valdez"
+  }],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/es/tutorials/tutorial4/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Felipe Valdez Gómez de la Torre",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          
+          
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top"><header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/es/" accesskey="h" title="Felipe Valdez Gómez de la Torre">
+                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo" height="18" width="18">Felipe Valdez Gómez de la Torre</a>
+        </div>
+        <ul id="menu">
+            
+            <li>
+                <a href="http://localhost:1313/es/publications/">
+                    <span>Publicaciones</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/es/projects/">
+                    <span>Proyectos de Mapeo y SIG</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/es/tutorials/">
+                    <span>Tutoriales</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://blog.felipevaldez.com/es/">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/es/tags/">
+                    <span>Tags</span>
+                </a>
+            </li>
+            
+            
+            <li>
+                
+                
+                    <a href="/" style="font-size: 0.9rem;">
+                        View in English
+                    </a>
+                
+            </li>
+        </ul>
+    </nav>
+</header>
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Narrativa con Mapas - Usando Maplibre
+    </h1>
+    <footer class="post-footer">
+      <ul class="post-tags">
+        <li><a href="http://localhost:1313/es/tags/datos-abiertos/">Datos Abiertos</a></li>
+        <li><a href="http://localhost:1313/es/tags/mapas/">Mapas</a></li>
+        <li><a href="http://localhost:1313/es/tags/narrativa/">Narrativa</a></li>
+        <li><a href="http://localhost:1313/es/tags/sig/">SIG</a></li>
+      </ul>
+    </footer>
+    <div class="post-description">
+      El tutorial &#39;Narrativa con MapLibre&#39; enseña a los participantes cómo crear historias interactivas basadas en mapas sin necesidad de experiencia en programación.
+    </div>
+    <div class="post-meta"><span title='2025-03-26 00:00:00 +0000 UTC'>marzo 2025</span>&nbsp;&middot;&nbsp;Felipe Valdez&nbsp;|&nbsp;Traducciones:
+<ul class="i18n_list">
+    <li>
+        <a href="http://localhost:1313/tutorials/tutorial4/">English</a>
+    </li>
+</ul>
+
+</div>
+  </header> 
+  <div class="post-content"><hr>
+<h5 id="acceder-al-tutorial">Acceder al tutorial</h5>
+<ul>
+<li><a href="https://fmvaldezg.codeberg.page/storytelling_maplibre_wkshp_es/" target="_blank">Tutorial en línea</a>
+</li>
+<li><a href="https://felipevaldez.com/maplibre-storymap_demoTU/" target="_blank">Ejemplo en línea</a>
+</li>
+</ul>
+<hr>
+<h5 id="resumen">Resumen</h5>
+<p>El tutorial &ldquo;Narrativa con MapLibre&rdquo; enseña a los participantes cómo crear historias interactivas basadas en mapas sin necesidad de experiencia en programación. El taller demuestra cómo los mapas pueden enriquecer la narrativa al proporcionar contexto visual y permitir la participación del público. Aprenderás duplicando y personalizando una plantilla prediseñada de Digital Democracy en tu propia cuenta de GitHub, usando MapLibre GL JS (una biblioteca de mapas de código abierto). Este enfoque práctico permite que cualquier persona cree narrativas geográficas atractivas que combinan mapas con elementos multimedia, los cuales pueden compartirse en la web para que otros los exploren.</p>
+<hr>
+<h5 id="mapa-de-ejemplo">Mapa de ejemplo</h5>
+<p><strong>Sedes de Temple University</strong></p>
+<p><img loading="lazy" src="result4.png" alt=""  />
+
+<a href="https://felipevaldez.com/maplibre-storymap_demoTU/" target="_blank">Demo Storymap</a>
+</p>
+<p><strong>La evolución de los establos de caballos de Fletcher Street: Un legado de los jinetes negros de Filadelfia: pasado y presente</strong></p>
+<p><img loading="lazy" src="Untitled.gif" alt=""  />
+
+<a href="https://fletcherststorymap.com/" target="_blank">fletcherststorymap.com por Courtney Berne y Felipe Valdez</a>
+</p>
+<hr>
+<h5 id="atribución">Atribución</h5>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+  <a property="dct:title" rel="cc:attributionURL" href="https://felipevaldez.com/storytelling_maplibre_workshop/">Narrativa con Mapas - Usando Maplibre</a> por
+  <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://felipevaldez.com/">Felipe Valdez</a> está licenciado bajo 
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-flex; align-items:center;">
+    CC BY-NC-SA 4.0
+    <img style="height:22px; margin-left:3px;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="">
+    <img style="height:22px; margin-left:3px;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="">
+    <img style="height:22px; margin-left:3px;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="">
+    <img style="height:22px; margin-left:3px;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="">
+  </a>
+</p>
+<hr>
+<h5 id="material-relacionado">Material relacionado</h5>
+<ul>
+<li><a href="https://maplibre.org/" target="_blank">Documentación de Maplibre</a>
+</li>
+<li><a href="https://github.com/digidem/maplibre-storymap" target="_blank">Plantilla de Digital Democracy</a>
+</li>
+</ul>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/es/tags/datos-abiertos/">Datos Abiertos</a></li>
+      <li><a href="http://localhost:1313/es/tags/mapas/">Mapas</a></li>
+      <li><a href="http://localhost:1313/es/tags/narrativa/">Narrativa</a></li>
+      <li><a href="http://localhost:1313/es/tags/sig/">SIG</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copiar';
+
+        function copyingDone() {
+            copybutton.innerHTML = '¡copiado!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copiar';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>
